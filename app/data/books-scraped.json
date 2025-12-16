@@ -4,6 +4,150 @@
     "author": "Unknown Author",
     "price": 0.0,
     "coverUrl": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?q=80&w=1000",
+    "accentColor": "#3B82F6",
+    "rating": {
+      "average": 4.5,
+      "count": 100
+    },
+    "tags": [
+      "Non-Fiction",
+      "Self-Help"
+    ],
+    "synopsis": "No synopsis available.",
+    "sentiment": "Deep & Profound",
+    "affiliateLink": "https://amzn.to/48MOaDf",
+    "reviews": [
+      "Absolutely stunning visuals and writing. I couldn't put it down. A masterpiece of modern storytelling."
+    ],
+    "id": "1"
+  },
+  {
+    "title": "The 5AM Club: Own Your Morning. Elevate Your Life.",
+    "author": "Robin Sharma",
+    "price": 0.0,
+    "coverUrl": "https://m.media-amazon.com/images/I/61Av4S46owL._SY522_.jpg",
+    "accentColor": "#10B981",
+    "rating": {
+      "average": 4.6,
+      "count": 100
+    },
+    "tags": [
+      "Business & Money",
+      "Management & Leadership",
+      "Leadership & Motivation"
+    ],
+    "synopsis": "Legendary leadership and elite performance expert Robin Sharma introduced The 5am Club concept over twenty years ago, based on a revolutionary morning routine that has helped his clients maximize their productivity, activate their best health and bulletproof their serenity in this age of overwhelming complexity.\n      Now, in this life-changing book, handcrafted by the author over a rigorous four-year period, you will discover the early-rising habit that has helped so many accomplish epic results while upgrading their happiness, helpfulness and feelings of aliveness.\n      Through an enchantin...",
+    "sentiment": "Essential Reading",
+    "affiliateLink": "https://amzn.to/4q0PWWM",
+    "reviews": [
+      "The 5 AM Club by Robin Sharma is like a little secret recipe for a magical morning. I don’t know about y’all, but a magical morning is what I LIVE for! The book follows the journey of an entrepreneur ...",
+      "I didn’t expect The 5AM Club to hit me the way it did. I picked it up for the personal development insights—and while it absolutely delivered on that front, what surprised me most was the format. I ha...",
+      "Love this book, if you are someone who wants motivation to get up and get going.  This book assists in getting you there.  I have learned so much, and I added the workbook to continue my personal grow..."
+    ],
+    "id": "2"
+  },
+  {
+    "title": "Deep Work: Rules for Focused Success in a Distracted World",
+    "author": "Cal Newport",
+    "price": 0.0,
+    "coverUrl": "https://m.media-amazon.com/images/I/91nujEwIpYL._SY522_.jpg",
+    "accentColor": "#F59E0B",
+    "rating": {
+      "average": 4.5,
+      "count": 100
+    },
+    "tags": [
+      "Business & Money",
+      "Business Culture",
+      "Workplace Culture"
+    ],
+    "synopsis": "AN AMAZON BEST BOOK OF 2O16 PICK IN BUSINESS & LEADERSHIP\nWALL STREET JOURNAL \nBUSINESS BESTSELLER\n A BUSINESS BOOK OF THE WEEK AT 800-CEO-READ\nMaster one of our economy’s most rare skills and achieve groundbreaking results with this “exciting” book (Daniel H. Pink) from an “exceptional” author (\nNew York Times\n \nBook Review\n).\n Deep work is the ability to focus without distraction on a cognitively demanding task. It's a skill that allows you to quickly master complicated information and produce better results in less time. Deep Work will make you better at what you do and provide the sense of...",
+    "sentiment": "Visionary",
+    "affiliateLink": "https://amzn.to/48RPZNF",
+    "reviews": [
+      "Deep Work is the execution/tactical companion to Newport's last book, So Good They Can't Ignore You and it doesn't disappoint.These books should be taken together as a whole because they give you the ...",
+      "In 1995 the term “disruptive innovation” was coined by Harvard Professor, Clayton Christensen to describe how certain types of innovation change industries. But this is rare. Most innovation doesn’t a...",
+      "Excellent examination of a trend we all suffer from in today's digital world: distraction. The inability to focus and work deeply is severely decreasing our work output. It's also neurologically damag..."
+    ],
+    "id": "3"
+  },
+  {
+    "title": "Unknown Title",
+    "author": "Unknown Author",
+    "price": 0.0,
+    "coverUrl": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?q=80&w=1000",
+    "accentColor": "#8B5CF6",
+    "rating": {
+      "average": 4.5,
+      "count": 100
+    },
+    "tags": [
+      "Non-Fiction",
+      "Self-Help"
+    ],
+    "synopsis": "No synopsis available.",
+    "sentiment": "Essential Reading",
+    "affiliateLink": "https://amzn.to/48Un7EC",
+    "reviews": [
+      "Absolutely stunning visuals and writing. I couldn't put it down. A masterpiece of modern storytelling."
+    ],
+    "id": "4"
+  },
+  {
+    "title": "Make Time: How to Focus on What Matters Every Day",
+    "author": "Jake Knapp",
+    "price": 0.0,
+    "coverUrl": "https://m.media-amazon.com/images/I/71x4c1e4cGL._SY522_.jpg",
+    "accentColor": "#8B5CF6",
+    "rating": {
+      "average": 4.3,
+      "count": 100
+    },
+    "tags": [
+      "Business & Money",
+      "Business Culture",
+      "Work Life Balance"
+    ],
+    "synopsis": "From the \nNew York Times\n bestselling authors of \nSprint\n comes “a unique and engaging read about a proven habit framework [that] readers can apply to each day” (\nInsider,\n Best Books to Form New Habits).\n“If you want to achieve more (without going nuts), read this book.”—Charles Duhigg, author of \nThe Power of Habit\nNobody ever looked at an empty calendar and said, \"The best way to spend this time is by cramming it full of meetings!\" or got to work in the morning and thought, \nToday I'll spend hours on Facebook!\n Yet that's exactly what we do. Why?\nIn a world where information refreshes endle...",
+    "sentiment": "Essential Reading",
+    "affiliateLink": "https://amzn.to/3N0VORC",
+    "reviews": [
+      "This book is **amazing**. First of all, the authors write it in a very light and entertaining way- I love the writing style. There are even cute illustrations. The other thing is that they give very g...",
+      "(3.5 stars)Truth be told I'm already doing a lot of the techniques mentioned in this book, but if you're struggling with attention or making time for things I think this is an excellent primer. Some o...",
+      "The advice in this book is actionable very quickly.The framework ofChoose Highlight (Pick something that YOU want to move forward)Laser Focus (Set time away and cut off distractions)Energize (Keep You..."
+    ],
+    "id": "5"
+  },
+  {
+    "title": "Limitless Expanded Edition: Upgrade Your Brain, Learn Anything Faster, and Unlock Your Exceptional Life",
+    "author": "Jim Kwik",
+    "price": 0.0,
+    "coverUrl": "https://m.media-amazon.com/images/I/71YKosk1-8L._SY522_.jpg",
+    "accentColor": "#D4A373",
+    "rating": {
+      "average": 4.5,
+      "count": 100
+    },
+    "tags": [
+      "Business & Money",
+      "Business Culture",
+      "Motivation & Self-Improvement"
+    ],
+    "synopsis": "From the world’s top brain coach: revised edition of the \nNew York Times\n and \nWall Street Journal\n best-selling guide to unlocking your inner genius, with two all-new chapters and updates throughout.\n“Jim Kwik knows how to get the maximum out of me as a human being.”\n—Will Smith\nFor over 25 years, Jim Kwik has worked closely with successful men and women who are at the top in their fields as actors, athletes, CEOs, and business leaders from all walks of life to unlock their true potential. In this groundbreaking book, he reveals the science-based practices and field-tested tips to accelerate ...",
+    "sentiment": "Mind-Bending",
+    "affiliateLink": "https://amzn.to/3YsPl4w",
+    "reviews": [
+      "Limitless delivers a thoughtful blend of neuroscience, practical strategy, and motivational storytelling. Jim Kwik presents a clear framework for enhancing memory, improving focus, and accelerating le...",
+      "\"Limitless Expanded\" by Jim Kwik is an absolute game-changer in the realm of personal development and cognitive enhancement. As a devoted reader of Kwik's previous works, I had high expectations, and ...",
+      "A recommendation from my father's neurologist.  Very informative with clever ideas to start at any age. The earlier the better!..."
+    ],
+    "id": "6"
+  },
+  {
+    "title": "Unknown Title",
+    "author": "Unknown Author",
+    "price": 0.0,
+    "coverUrl": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?q=80&w=1000",
     "accentColor": "#8B5CF6",
     "rating": {
       "average": 4.5,
@@ -15,69 +159,61 @@
     ],
     "synopsis": "No synopsis available.",
     "sentiment": "Life-Changing",
-    "affiliateLink": "https://amzn.to/48MOaDf",
-    "communityThoughts": "Absolutely stunning visuals and writing. I couldn't put it down. A masterpiece of modern storytelling.",
-    "id": "1"
+    "affiliateLink": "https://amzn.to/3XQjDhv",
+    "reviews": [
+      "Absolutely stunning visuals and writing. I couldn't put it down. A masterpiece of modern storytelling."
+    ],
+    "id": "7"
   },
   {
-    "title": "The 5AM Club: Own Your Morning. Elevate Your Life.",
-    "author": "Robin Sharma",
-    "price": 13.51,
-    "coverUrl": "https://m.media-amazon.com/images/I/61Av4S46owL._SY522_.jpg",
-    "accentColor": "#EC4899",
+    "title": "The Compound Effect (10th Anniversary Edition): Jumpstart Your Income, Your Life, Your Success",
+    "author": "Darren Hardy",
+    "price": 0.0,
+    "coverUrl": "https://m.media-amazon.com/images/I/71vffeIFyGL._SY522_.jpg",
+    "accentColor": "#EF4444",
     "rating": {
-      "average": 4.5,
+      "average": 4.6,
       "count": 100
     },
     "tags": [
-      "Non-Fiction",
-      "Self-Help"
+      "Business & Money",
+      "Business Culture",
+      "Motivation & Self-Improvement"
     ],
-    "synopsis": "Legendary leadership and elite performance expert Robin Sharma introduced The 5am Club concept over twenty years ago, based on a revolutionary morning routine that has helped his clients maximize their productivity, activate their best health and bulletproof their serenity in this age of overwhelming complexity.\n      Now, in this life-changing book, handcrafted by the author over a rigorous four-year period, you will discover the early-rising habit that has helped so many accomplish epic results while upgrading their happiness, helpfulness and feelings of aliveness.\n      Through an enchantin...",
-    "sentiment": "Visionary",
-    "affiliateLink": "https://amzn.to/4q0PWWM",
-    "communityThoughts": "Absolutely stunning visuals and writing. I couldn't put it down. A masterpiece of modern storytelling.",
-    "id": "2"
+    "synopsis": "Achieve success beyond your wildest dreams with this \nNew York Times \nbestselling guide by the central curator of the success media industry.\n  \nDo you want success?\nMore success than you have now?\nAnd even more success than you ever imagined possible?\nThat is what this book is about. Achieving it. \n  \n No gimmicks. No hyperbole. Finally, just the truth on what it takes to earn success\n  \n Darren Hardy has heard it all, seen it all, and tried most of it. This book reveals the core principles that drive success. The Compound Effect contains the essence of what every superachiever needs to know,...",
+    "sentiment": "Deep & Profound",
+    "affiliateLink": "https://amzn.to/4pwgrUi",
+    "reviews": [
+      "This is a wonderful book, and it distills down several key things to follow on your path to success. It reminds me to keep on the path daily, which is actually effortless once I incorporate habits. Go...",
+      "Must read for those who want actionable advice to accomplish their goals. Darren does a great job in convincing you that every choice you make matters....",
+      "It took me a couple years to finish this book. Honestly only like a week and a half. But I had it for a couple years. I started to read it and actually got pretty far. I think I was 72% when I came ba..."
+    ],
+    "id": "8"
   },
   {
-    "title": "Unknown Title",
-    "author": "Unknown Author",
+    "title": "Grit: The Power of Passion and Perseverance",
+    "author": "Angela Duckworth",
     "price": 0.0,
-    "coverUrl": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?q=80&w=1000",
-    "accentColor": "#10B981",
-    "rating": {
-      "average": 4.5,
-      "count": 100
-    },
-    "tags": [
-      "Non-Fiction",
-      "Self-Help"
-    ],
-    "synopsis": "No synopsis available.",
-    "sentiment": "Mind-Bending",
-    "affiliateLink": "https://amzn.to/48RPZNF",
-    "communityThoughts": "Absolutely stunning visuals and writing. I couldn't put it down. A masterpiece of modern storytelling.",
-    "id": "3"
-  },
-  {
-    "title": "Unknown Title",
-    "author": "Unknown Author",
-    "price": 0.0,
-    "coverUrl": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?q=80&w=1000",
+    "coverUrl": "https://m.media-amazon.com/images/I/71gPBwjsEfL._SY522_.jpg",
     "accentColor": "#3B82F6",
     "rating": {
-      "average": 4.5,
+      "average": 4.6,
       "count": 100
     },
     "tags": [
-      "Non-Fiction",
-      "Self-Help"
+      "Health, Fitness & Dieting",
+      "Psychology & Counseling",
+      "Applied Psychology"
     ],
-    "synopsis": "No synopsis available.",
+    "synopsis": "In this instant \nNew York Times \nbestseller, pioneering psychologist Angela Duckworth shows anyone striving to succeed—be it parents, students, educators, athletes, or business people—that the secret to outstanding achievement is not talent but a special blend of passion and persistence she calls “grit.”\nDrawing on her own powerful story as the daughter of a scientist who frequently noted her lack of “genius,” Duckworth, now a celebrated researcher and professor, describes her early eye-opening stints in teaching, business consulting, and neuroscience, which led to the hypothesis that what rea...",
     "sentiment": "Life-Changing",
-    "affiliateLink": "https://amzn.to/48Un7EC",
-    "communityThoughts": "Absolutely stunning visuals and writing. I couldn't put it down. A masterpiece of modern storytelling.",
-    "id": "4"
+    "affiliateLink": "https://amzn.to/4pznz29",
+    "reviews": [
+      "Grit was a great read and really changed how I think about long-term success. The core idea — that passion and perseverance matter more than raw talent — really hit home. Angela Duckworth does a great...",
+      "To: All parents, teachers, coaches, athletes, students, and caregivers:Re: the book Grit: The Power of Passion and Perseverance by Dr. Angela DuckworthBuy it. Read it slowly and deliberately. If you l...",
+      "In “Grit”, leading researcher Angela Duckworth accounts the latest academic thinking concerning the formidable topic of the “psychology of human achievement” -- the question of why some people achieve..."
+    ],
+    "id": "9"
   },
   {
     "title": "Unknown Title",
@@ -94,17 +230,19 @@
       "Self-Help"
     ],
     "synopsis": "No synopsis available.",
-    "sentiment": "Gripping",
-    "affiliateLink": "https://amzn.to/3N0VORC",
-    "communityThoughts": "Absolutely stunning visuals and writing. I couldn't put it down. A masterpiece of modern storytelling.",
-    "id": "5"
+    "sentiment": "Visionary",
+    "affiliateLink": "https://amzn.to/48MOQbL",
+    "reviews": [
+      "Absolutely stunning visuals and writing. I couldn't put it down. A masterpiece of modern storytelling."
+    ],
+    "id": "10"
   },
   {
     "title": "Unknown Title",
     "author": "Unknown Author",
     "price": 0.0,
     "coverUrl": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?q=80&w=1000",
-    "accentColor": "#EC4899",
+    "accentColor": "#10B981",
     "rating": {
       "average": 4.5,
       "count": 100
@@ -115,69 +253,34 @@
     ],
     "synopsis": "No synopsis available.",
     "sentiment": "Mind-Bending",
-    "affiliateLink": "https://amzn.to/3YsPl4w",
-    "communityThoughts": "Absolutely stunning visuals and writing. I couldn't put it down. A masterpiece of modern storytelling.",
-    "id": "6"
+    "affiliateLink": "https://amzn.to/3KI8dcH",
+    "reviews": [
+      "Absolutely stunning visuals and writing. I couldn't put it down. A masterpiece of modern storytelling."
+    ],
+    "id": "11"
   },
   {
-    "title": "Digital Minimalism: Choosing a Focused Life in a Noisy World",
-    "author": "Cal Newport",
-    "price": 0.0,
-    "coverUrl": "https://m.media-amazon.com/images/I/81x+9opgESL._SY522_.jpg",
-    "accentColor": "#10B981",
+    "title": "Thinking, Fast and Slow",
+    "author": "Daniel Kahneman",
+    "price": 18.05,
+    "coverUrl": "https://m.media-amazon.com/images/I/61n7jZ8xQ6L._SY522_.jpg",
+    "accentColor": "#D4A373",
     "rating": {
       "average": 4.5,
       "count": 100
     },
     "tags": [
-      "Non-Fiction",
-      "Self-Help"
+      "Business & Money",
+      "Management & Leadership",
+      "Decision-Making & Problem Solving"
     ],
-    "synopsis": "A \nNew York Times, Wall Street Journal, Publishers Weekly, \nand \nUSA Today \nbestseller\n\"Newport is making a bid to be the Marie Kondo of technology: someone with an actual plan for helping you realize the digital pursuits that do, and don't, bring value to your life.\"--Ezra Klein, Vox\nMinimalism is the art of knowing how much is just enough. Digital minimalism applies this idea to our personal technology. It's the key to living a focused life in an increasingly noisy world.\nIn this timely and enlightening book, the bestselling author of \nDeep Work\n introduces a philosophy for technology use th...",
-    "sentiment": "Life-Changing",
-    "affiliateLink": "https://amzn.to/3XQjDhv",
-    "communityThoughts": "Absolutely stunning visuals and writing. I couldn't put it down. A masterpiece of modern storytelling.",
-    "id": "7"
-  },
-  {
-    "title": "Unknown Title",
-    "author": "Unknown Author",
-    "price": 0.0,
-    "coverUrl": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?q=80&w=1000",
-    "accentColor": "#3B82F6",
-    "rating": {
-      "average": 4.5,
-      "count": 100
-    },
-    "tags": [
-      "Non-Fiction",
-      "Self-Help"
+    "synopsis": "*Major \nNew York Times\n Bestseller\n*More than 2.6 million copies sold\n*One of \nThe\n \nNew York Times Book Review's\n ten best books of the year\n*Selected by \nThe Wall Street Journal\n as one of the best nonfiction books of the year\n*Presidential Medal of Freedom Recipient\n*Daniel Kahneman's work with Amos Tversky is the subject of Michael Lewis's best-selling \nThe Undoing Project: A Friendship That Changed Our Minds\nIn his mega bestseller, \nThinking, Fast and Slow\n, Daniel Kahneman, world-famous psychologist and winner of the Nobel Prize in Economics, takes us on a groundbreaking tour of the mind...",
+    "sentiment": "Gripping",
+    "affiliateLink": "https://amzn.to/3XUbgS8",
+    "reviews": [
+      "Absolutely stunning visuals and writing. I couldn't put it down. A masterpiece of modern storytelling."
     ],
-    "synopsis": "No synopsis available.",
-    "sentiment": "Visionary",
-    "affiliateLink": "https://amzn.to/4pwgrUi",
-    "communityThoughts": "Absolutely stunning visuals and writing. I couldn't put it down. A masterpiece of modern storytelling.",
-    "id": "8"
-  },
-  {
-    "title": "Unknown Title",
-    "author": "Unknown Author",
-    "price": 0.0,
-    "coverUrl": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?q=80&w=1000",
-    "accentColor": "#EF4444",
-    "rating": {
-      "average": 4.5,
-      "count": 100
-    },
-    "tags": [
-      "Non-Fiction",
-      "Self-Help"
-    ],
-    "synopsis": "No synopsis available.",
-    "sentiment": "Deep & Profound",
-    "affiliateLink": "https://amzn.to/4pznz29",
-    "communityThoughts": "Absolutely stunning visuals and writing. I couldn't put it down. A masterpiece of modern storytelling.",
-    "id": "9"
+    "id": "12"
   },
   {
     "title": "Unknown Title",
@@ -194,69 +297,11 @@
       "Self-Help"
     ],
     "synopsis": "No synopsis available.",
-    "sentiment": "Deep & Profound",
-    "affiliateLink": "https://amzn.to/48MOQbL",
-    "communityThoughts": "Absolutely stunning visuals and writing. I couldn't put it down. A masterpiece of modern storytelling.",
-    "id": "10"
-  },
-  {
-    "title": "Unknown Title",
-    "author": "Unknown Author",
-    "price": 0.0,
-    "coverUrl": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?q=80&w=1000",
-    "accentColor": "#EC4899",
-    "rating": {
-      "average": 4.5,
-      "count": 100
-    },
-    "tags": [
-      "Non-Fiction",
-      "Self-Help"
-    ],
-    "synopsis": "No synopsis available.",
-    "sentiment": "Visionary",
-    "affiliateLink": "https://amzn.to/3KI8dcH",
-    "communityThoughts": "Absolutely stunning visuals and writing. I couldn't put it down. A masterpiece of modern storytelling.",
-    "id": "11"
-  },
-  {
-    "title": "Thinking, Fast and Slow",
-    "author": "Daniel Kahneman",
-    "price": 18.05,
-    "coverUrl": "https://m.media-amazon.com/images/I/61n7jZ8xQ6L._SY522_.jpg",
-    "accentColor": "#3B82F6",
-    "rating": {
-      "average": 4.5,
-      "count": 100
-    },
-    "tags": [
-      "Non-Fiction",
-      "Self-Help"
-    ],
-    "synopsis": "*Major \nNew York Times\n Bestseller\n*More than 2.6 million copies sold\n*One of \nThe\n \nNew York Times Book Review's\n ten best books of the year\n*Selected by \nThe Wall Street Journal\n as one of the best nonfiction books of the year\n*Presidential Medal of Freedom Recipient\n*Daniel Kahneman's work with Amos Tversky is the subject of Michael Lewis's best-selling \nThe Undoing Project: A Friendship That Changed Our Minds\nIn his mega bestseller, \nThinking, Fast and Slow\n, Daniel Kahneman, world-famous psychologist and winner of the Nobel Prize in Economics, takes us on a groundbreaking tour of the mind...",
-    "sentiment": "Life-Changing",
-    "affiliateLink": "https://amzn.to/3XUbgS8",
-    "communityThoughts": "Absolutely stunning visuals and writing. I couldn't put it down. A masterpiece of modern storytelling.",
-    "id": "12"
-  },
-  {
-    "title": "Discipline Is Destiny: The Power of Self-Control (The Stoic Virtues Series)",
-    "author": "Ryan Holiday",
-    "price": 0.0,
-    "coverUrl": "https://m.media-amazon.com/images/I/81kQ4rTDHAL._SY522_.jpg",
-    "accentColor": "#8B5CF6",
-    "rating": {
-      "average": 4.5,
-      "count": 100
-    },
-    "tags": [
-      "Non-Fiction",
-      "Self-Help"
-    ],
-    "synopsis": "The instant \nNew York Times, Wall Street Journal, \nand \nUSA Today \nBestseller!\nIn his \nNew York Times \nbestselling book \nCourage is Calling\n, author Ryan Holiday made the Stoic case for a bold and brave life. In this much-anticipated second book of his Stoic Virtue series, Holiday celebrates the awesome power of self-discipline and those who have seized it.\nTo master anything, one must first master themselves–one’s emotions, one’s thoughts, one’s actions. Eisenhower famously said that freedom is really the opportunity to practice self-discipline. Cicero called the virtue of temperance the poli...",
-    "sentiment": "Deep & Profound",
+    "sentiment": "Mind-Bending",
     "affiliateLink": "https://amzn.to/4q8LEN5",
-    "communityThoughts": "Absolutely stunning visuals and writing. I couldn't put it down. A masterpiece of modern storytelling.",
+    "reviews": [
+      "Absolutely stunning visuals and writing. I couldn't put it down. A masterpiece of modern storytelling."
+    ],
     "id": "13"
   },
   {
@@ -264,7 +309,7 @@
     "author": "Unknown Author",
     "price": 0.0,
     "coverUrl": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?q=80&w=1000",
-    "accentColor": "#EC4899",
+    "accentColor": "#3B82F6",
     "rating": {
       "average": 4.5,
       "count": 100
@@ -276,28 +321,10 @@
     "synopsis": "No synopsis available.",
     "sentiment": "Gripping",
     "affiliateLink": "https://amzn.to/48DoUz3",
-    "communityThoughts": "Absolutely stunning visuals and writing. I couldn't put it down. A masterpiece of modern storytelling.",
-    "id": "14"
-  },
-  {
-    "title": "Unknown Title",
-    "author": "Unknown Author",
-    "price": 0.0,
-    "coverUrl": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?q=80&w=1000",
-    "accentColor": "#10B981",
-    "rating": {
-      "average": 4.5,
-      "count": 100
-    },
-    "tags": [
-      "Non-Fiction",
-      "Self-Help"
+    "reviews": [
+      "Absolutely stunning visuals and writing. I couldn't put it down. A masterpiece of modern storytelling."
     ],
-    "synopsis": "No synopsis available.",
-    "sentiment": "Gripping",
-    "affiliateLink": "https://amzn.to/3MCP0JZ",
-    "communityThoughts": "Absolutely stunning visuals and writing. I couldn't put it down. A masterpiece of modern storytelling.",
-    "id": "15"
+    "id": "14"
   },
   {
     "title": "Unknown Title",
@@ -315,16 +342,18 @@
     ],
     "synopsis": "No synopsis available.",
     "sentiment": "Essential Reading",
-    "affiliateLink": "https://amzn.to/4pznX0B",
-    "communityThoughts": "Absolutely stunning visuals and writing. I couldn't put it down. A masterpiece of modern storytelling.",
-    "id": "16"
+    "affiliateLink": "https://amzn.to/3MCP0JZ",
+    "reviews": [
+      "Absolutely stunning visuals and writing. I couldn't put it down. A masterpiece of modern storytelling."
+    ],
+    "id": "15"
   },
   {
     "title": "Unknown Title",
     "author": "Unknown Author",
     "price": 0.0,
     "coverUrl": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?q=80&w=1000",
-    "accentColor": "#10B981",
+    "accentColor": "#F59E0B",
     "rating": {
       "average": 4.5,
       "count": 100
@@ -334,10 +363,56 @@
       "Self-Help"
     ],
     "synopsis": "No synopsis available.",
-    "sentiment": "Mind-Bending",
+    "sentiment": "Visionary",
+    "affiliateLink": "https://amzn.to/4pznX0B",
+    "reviews": [
+      "Absolutely stunning visuals and writing. I couldn't put it down. A masterpiece of modern storytelling."
+    ],
+    "id": "16"
+  },
+  {
+    "title": "Unknown Title",
+    "author": "Unknown Author",
+    "price": 0.0,
+    "coverUrl": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?q=80&w=1000",
+    "accentColor": "#D4A373",
+    "rating": {
+      "average": 4.5,
+      "count": 100
+    },
+    "tags": [
+      "Non-Fiction",
+      "Self-Help"
+    ],
+    "synopsis": "No synopsis available.",
+    "sentiment": "Life-Changing",
     "affiliateLink": "https://amzn.to/4iVOu5P",
-    "communityThoughts": "Absolutely stunning visuals and writing. I couldn't put it down. A masterpiece of modern storytelling.",
+    "reviews": [
+      "Absolutely stunning visuals and writing. I couldn't put it down. A masterpiece of modern storytelling."
+    ],
     "id": "17"
+  },
+  {
+    "title": "Unknown Title",
+    "author": "Unknown Author",
+    "price": 0.0,
+    "coverUrl": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?q=80&w=1000",
+    "accentColor": "#F59E0B",
+    "rating": {
+      "average": 4.5,
+      "count": 100
+    },
+    "tags": [
+      "Non-Fiction",
+      "Self-Help"
+    ],
+    "synopsis": "No synopsis available.",
+    "sentiment": "Essential Reading",
+    "affiliateLink": "https://amzn.to/3MBk7pq",
+    "reviews": [
+      "Absolutely stunning visuals and writing. I couldn't put it down. A masterpiece of modern storytelling."
+    ],
+    "id": "18"
   },
   {
     "title": "Unknown Title",
@@ -354,10 +429,82 @@
       "Self-Help"
     ],
     "synopsis": "No synopsis available.",
-    "sentiment": "Life-Changing",
-    "affiliateLink": "https://amzn.to/3MBk7pq",
-    "communityThoughts": "Absolutely stunning visuals and writing. I couldn't put it down. A masterpiece of modern storytelling.",
-    "id": "18"
+    "sentiment": "Gripping",
+    "affiliateLink": "https://amzn.to/48OYNUz",
+    "reviews": [
+      "Absolutely stunning visuals and writing. I couldn't put it down. A masterpiece of modern storytelling."
+    ],
+    "id": "19"
+  },
+  {
+    "title": "Unknown Title",
+    "author": "Unknown Author",
+    "price": 0.0,
+    "coverUrl": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?q=80&w=1000",
+    "accentColor": "#D4A373",
+    "rating": {
+      "average": 4.5,
+      "count": 100
+    },
+    "tags": [
+      "Non-Fiction",
+      "Self-Help"
+    ],
+    "synopsis": "No synopsis available.",
+    "sentiment": "Visionary",
+    "affiliateLink": "https://amzn.to/4aLWEeX",
+    "reviews": [
+      "Absolutely stunning visuals and writing. I couldn't put it down. A masterpiece of modern storytelling."
+    ],
+    "id": "20"
+  },
+  {
+    "title": "Unknown Title",
+    "author": "Unknown Author",
+    "price": 0.0,
+    "coverUrl": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?q=80&w=1000",
+    "accentColor": "#10B981",
+    "rating": {
+      "average": 4.5,
+      "count": 100
+    },
+    "tags": [
+      "Non-Fiction",
+      "Self-Help"
+    ],
+    "synopsis": "No synopsis available.",
+    "sentiment": "Deep & Profound",
+    "affiliateLink": "https://amzn.to/4aOHllK",
+    "reviews": [
+      "Absolutely stunning visuals and writing. I couldn't put it down. A masterpiece of modern storytelling."
+    ],
+    "id": "21"
+  },
+  {
+    "title": "Never Split the Difference: Negotiating As If Your Life Depended On It―Unlock Your Persuasion Potential in Professional and Personal Life",
+    "author": "Chris Voss",
+    "price": 0.0,
+    "coverUrl": "https://m.media-amazon.com/images/I/81PPq8CP4sL._SY522_.jpg",
+    "accentColor": "#8B5CF6",
+    "rating": {
+      "average": 4.6,
+      "count": 100
+    },
+    "tags": [
+      "Business & Money",
+      "Marketing & Sales",
+      "Marketing",
+      "Research"
+    ],
+    "synopsis": "A \nNEW YORK TIMES \nBESTSELLER\nA \nWALL STREET JOURNAL\n BESTSELLER\n\"This book blew my mind. It’s a riveting read, full of instantly actionable advice-not just for high-stakes situations, but also for handling everyday conflicts at work and at home.\" —Adam Grant, author of \nThink Again\nThis international bestseller, with more than 5 million copies sold, offers a field-tested approach to high-stakes negotiations—whether in the boardroom, in your community, or at home.\nLife is a series of negotiations, and negotiation is at the heart of collaboration—whether you are a business executive, a salesper...",
+    "sentiment": "Mind-Bending",
+    "affiliateLink": "https://amzn.to/3L2R9y5",
+    "reviews": [
+      "Never Split the Difference was a fantastic read that completely changed how I think about negotiation. I expected a book full of hard-selling tactics, but instead it’s packed with practical, human-cen...",
+      "Everything we assumed we knew was wrong” (p.26), we are not rational, compromise is terrible, and “No” is the answer to getting what you want in and out of the office. These are all concepts that the ...",
+      "As a medical malpractice attorney, I’m always looking for ways to strengthen my negotiation skills, and Never Split the Difference by Chris Voss is one of the most practical and eye-opening books I’ve..."
+    ],
+    "id": "22"
   },
   {
     "title": "Unknown Title",
@@ -374,109 +521,34 @@
       "Self-Help"
     ],
     "synopsis": "No synopsis available.",
-    "sentiment": "Mind-Bending",
-    "affiliateLink": "https://amzn.to/48OYNUz",
-    "communityThoughts": "Absolutely stunning visuals and writing. I couldn't put it down. A masterpiece of modern storytelling.",
-    "id": "19"
-  },
-  {
-    "title": "Good to Great: A Study of Management Strategies of Companies with Lasting Growth",
-    "author": "Jim Collins",
-    "price": 19.51,
-    "coverUrl": "https://m.media-amazon.com/images/I/71LhjimPd8L._SY522_.jpg",
-    "accentColor": "#D4A373",
-    "rating": {
-      "average": 4.5,
-      "count": 100
-    },
-    "tags": [
-      "Non-Fiction",
-      "Self-Help"
+    "sentiment": "Life-Changing",
+    "affiliateLink": "https://amzn.to/4oSlixW",
+    "reviews": [
+      "Absolutely stunning visuals and writing. I couldn't put it down. A masterpiece of modern storytelling."
     ],
-    "synopsis": "The Challenge:\nBuilt to Last,\n the defining management study of the nineties, showed how great companies triumph over time and how long-term sustained performance can be engineered into the DNA of an enterprise from the verybeginning.\nBut what about the company that is not born with great DNA? How can good companies, mediocre companies, even bad companies achieve enduring greatness?\nThe Study: \nFor years, this question preyed on the mind of Jim Collins. Are there companies that defy gravity and convert long-term mediocrity or worse into long-term superiority? And if so, what are the universal ...",
-    "sentiment": "Visionary",
-    "affiliateLink": "https://amzn.to/4aLWEeX",
-    "communityThoughts": "Absolutely stunning visuals and writing. I couldn't put it down. A masterpiece of modern storytelling.",
-    "id": "20"
+    "id": "23"
   },
   {
-    "title": "Blue Ocean Strategy, Expanded Edition: How to Create Uncontested Market Space and Make the Competition Irrelevant",
-    "author": "W. Chan Kim",
+    "title": "Influence, New and Expanded: The Essential Guide to the Psychology of Influence and Persuasion in Everyday Life",
+    "author": "Robert B. Cialdini PhD",
     "price": 0.0,
-    "coverUrl": "https://m.media-amazon.com/images/I/91YCWH4jFdL._SY522_.jpg",
+    "coverUrl": "https://m.media-amazon.com/images/I/71SPjJ+UnLL._SY522_.jpg",
     "accentColor": "#EF4444",
     "rating": {
       "average": 4.5,
       "count": 100
     },
     "tags": [
-      "Non-Fiction",
-      "Self-Help"
+      "Business & Money",
+      "Business Culture",
+      "Motivation & Self-Improvement"
     ],
-    "synopsis": "OVER 4 MILLION COPIES SOLD\nWALL STREET JOURNAL AND BUSINESSWEEK BESTSELLER\nRECOGNIZED AS ONE OF THE MOST ICONIC AND IMPACTFUL STRATEGY BOOKS EVER WRITTEN\nThe global phenomenon that has sold over 4 million copies, is published in a record-breaking 49 languages and is a bestseller across five continents—now updated and expanded with new content. Named by \nFast Company\n as one of the most influential leadership books in its Leadership Hall of Fame. A strategy classic.\nIn this perennial bestseller, embraced by organizations and industries worldwide, globally preeminent management thinkers W. Chan ...",
-    "sentiment": "Gripping",
-    "affiliateLink": "https://amzn.to/4aOHllK",
-    "communityThoughts": "Absolutely stunning visuals and writing. I couldn't put it down. A masterpiece of modern storytelling.",
-    "id": "21"
-  },
-  {
-    "title": "Unknown Title",
-    "author": "Unknown Author",
-    "price": 0.0,
-    "coverUrl": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?q=80&w=1000",
-    "accentColor": "#8B5CF6",
-    "rating": {
-      "average": 4.5,
-      "count": 100
-    },
-    "tags": [
-      "Non-Fiction",
-      "Self-Help"
-    ],
-    "synopsis": "No synopsis available.",
-    "sentiment": "Life-Changing",
-    "affiliateLink": "https://amzn.to/3L2R9y5",
-    "communityThoughts": "Absolutely stunning visuals and writing. I couldn't put it down. A masterpiece of modern storytelling.",
-    "id": "22"
-  },
-  {
-    "title": "Unknown Title",
-    "author": "Unknown Author",
-    "price": 0.0,
-    "coverUrl": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?q=80&w=1000",
-    "accentColor": "#F59E0B",
-    "rating": {
-      "average": 4.5,
-      "count": 100
-    },
-    "tags": [
-      "Non-Fiction",
-      "Self-Help"
-    ],
-    "synopsis": "No synopsis available.",
-    "sentiment": "Visionary",
-    "affiliateLink": "https://amzn.to/4oSlixW",
-    "communityThoughts": "Absolutely stunning visuals and writing. I couldn't put it down. A masterpiece of modern storytelling.",
-    "id": "23"
-  },
-  {
-    "title": "Unknown Title",
-    "author": "Unknown Author",
-    "price": 0.0,
-    "coverUrl": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?q=80&w=1000",
-    "accentColor": "#D4A373",
-    "rating": {
-      "average": 4.5,
-      "count": 100
-    },
-    "tags": [
-      "Non-Fiction",
-      "Self-Help"
-    ],
-    "synopsis": "No synopsis available.",
+    "synopsis": "The foundational and wildly popular go-to resource for influence and persuasion—a renowned international bestseller, with over 5 million copies sold—now revised adding: new research, new insights, new examples, and online applications.\nIn the new edition of this highly acclaimed bestseller, Robert Cialdini—\nNew York Times\n bestselling author of \nPre-Suasion\n and the seminal expert in the fields of influence and persuasion—explains the psychology of why people say yes and how to apply these insights ethically in business and everyday settings. Using memorable stories and relatable examples, Cia...",
     "sentiment": "Visionary",
     "affiliateLink": "https://amzn.to/4q8M8mn",
-    "communityThoughts": "Absolutely stunning visuals and writing. I couldn't put it down. A masterpiece of modern storytelling.",
+    "reviews": [
+      "Absolutely stunning visuals and writing. I couldn't put it down. A masterpiece of modern storytelling."
+    ],
     "id": "24"
   },
   {
@@ -484,7 +556,7 @@
     "author": "Unknown Author",
     "price": 0.0,
     "coverUrl": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?q=80&w=1000",
-    "accentColor": "#10B981",
+    "accentColor": "#D4A373",
     "rating": {
       "average": 4.5,
       "count": 100
@@ -496,7 +568,9 @@
     "synopsis": "No synopsis available.",
     "sentiment": "Deep & Profound",
     "affiliateLink": "https://amzn.to/48C4ztY",
-    "communityThoughts": "Absolutely stunning visuals and writing. I couldn't put it down. A masterpiece of modern storytelling.",
+    "reviews": [
+      "Absolutely stunning visuals and writing. I couldn't put it down. A masterpiece of modern storytelling."
+    ],
     "id": "25"
   },
   {
@@ -504,7 +578,7 @@
     "author": "Unknown Author",
     "price": 0.0,
     "coverUrl": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?q=80&w=1000",
-    "accentColor": "#F59E0B",
+    "accentColor": "#D4A373",
     "rating": {
       "average": 4.5,
       "count": 100
@@ -516,27 +590,32 @@
     "synopsis": "No synopsis available.",
     "sentiment": "Life-Changing",
     "affiliateLink": "https://amzn.to/452I3rV",
-    "communityThoughts": "Absolutely stunning visuals and writing. I couldn't put it down. A masterpiece of modern storytelling.",
+    "reviews": [
+      "Absolutely stunning visuals and writing. I couldn't put it down. A masterpiece of modern storytelling."
+    ],
     "id": "26"
   },
   {
-    "title": "Unknown Title",
-    "author": "Unknown Author",
+    "title": "Big Magic: Creative Living Beyond Fear",
+    "author": "Elizabeth Gilbert",
     "price": 0.0,
-    "coverUrl": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?q=80&w=1000",
-    "accentColor": "#EC4899",
+    "coverUrl": "https://m.media-amazon.com/images/I/813mCUSzejL._SY522_.jpg",
+    "accentColor": "#EF4444",
     "rating": {
       "average": 4.5,
       "count": 100
     },
     "tags": [
-      "Non-Fiction",
-      "Self-Help"
+      "Business & Money",
+      "Business Culture",
+      "Motivation & Self-Improvement"
     ],
-    "synopsis": "No synopsis available.",
-    "sentiment": "Essential Reading",
+    "synopsis": "The instant #1 NEW YORK TIMES Bestseller\n\"A must read for anyone hoping to live a creative life... I dare you not to be inspired to be brave, to be free, and to be curious.” —PopSugar\nFrom the worldwide bestselling author of \nEat Pray Love \nand \nCity of Girls\n: the path to the vibrant, fulfilling life you’ve dreamed of\n. \n \nReaders of all ages and walks of life have drawn inspiration and empowerment from Elizabeth Gilbert’s books for years. Now this beloved author digs deep into her own generative process to share her wisdom and unique perspective about creativity. With profound empathy and ra...",
+    "sentiment": "Life-Changing",
     "affiliateLink": "https://amzn.to/4oUe0Kg",
-    "communityThoughts": "Absolutely stunning visuals and writing. I couldn't put it down. A masterpiece of modern storytelling.",
+    "reviews": [
+      "Absolutely stunning visuals and writing. I couldn't put it down. A masterpiece of modern storytelling."
+    ],
     "id": "27"
   },
   {
@@ -544,7 +623,7 @@
     "author": "Unknown Author",
     "price": 0.0,
     "coverUrl": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?q=80&w=1000",
-    "accentColor": "#F59E0B",
+    "accentColor": "#D4A373",
     "rating": {
       "average": 4.5,
       "count": 100
@@ -554,9 +633,11 @@
       "Self-Help"
     ],
     "synopsis": "No synopsis available.",
-    "sentiment": "Deep & Profound",
+    "sentiment": "Mind-Bending",
     "affiliateLink": "https://amzn.to/3L1WmGm",
-    "communityThoughts": "Absolutely stunning visuals and writing. I couldn't put it down. A masterpiece of modern storytelling.",
+    "reviews": [
+      "Absolutely stunning visuals and writing. I couldn't put it down. A masterpiece of modern storytelling."
+    ],
     "id": "28"
   },
   {
@@ -574,57 +655,19 @@
       "Self-Help"
     ],
     "synopsis": "No synopsis available.",
-    "sentiment": "Gripping",
+    "sentiment": "Visionary",
     "affiliateLink": "https://amzn.to/4q8MkSD",
-    "communityThoughts": "Absolutely stunning visuals and writing. I couldn't put it down. A masterpiece of modern storytelling.",
+    "reviews": [
+      "Absolutely stunning visuals and writing. I couldn't put it down. A masterpiece of modern storytelling."
+    ],
     "id": "29"
-  },
-  {
-    "title": "Shoe Dog: A Memoir by the Creator of Nike",
-    "author": "Phil Knight",
-    "price": 0.0,
-    "coverUrl": "https://m.media-amazon.com/images/I/71AqHmnXppL._SY522_.jpg",
-    "accentColor": "#8B5CF6",
-    "rating": {
-      "average": 4.6,
-      "count": 100
-    },
-    "tags": [
-      "Non-Fiction",
-      "Self-Help"
-    ],
-    "synopsis": "NEW YORK TIMES\n BESTSELLER\n \n \nIn this candid and riveting memoir, for the first time ever, Nike founder and board chairman Phil Knight shares the inside story of the company’s early days as an intrepid start-up and its evolution into one of the world’s most iconic, game-changing, and profitable brands.\nYoung, searching, fresh out of business school, Phil Knight borrowed fifty dollars from his father and launched a company with one simple mission: import high-quality, low-cost running shoes from Japan. Selling the shoes from the trunk of his Plymouth Valiant, Knight grossed eight thousand doll...",
-    "sentiment": "Gripping",
-    "affiliateLink": "https://amzn.to/4qdDHGO",
-    "communityThoughts": "Wow. I loved this book. Having worked with Nike on a few jobs, I had a lot of gaps of its history. This book isn't so much about shoes as it is about the epic journey of entrepreneurship, friendship, ...",
-    "id": "30"
-  },
-  {
-    "title": "Steve Jobs",
-    "author": "Walter Isaacson",
-    "price": 0.0,
-    "coverUrl": "https://m.media-amazon.com/images/I/71sVQDj0SCL._SY522_.jpg",
-    "accentColor": "#EF4444",
-    "rating": {
-      "average": 4.5,
-      "count": 100
-    },
-    "tags": [
-      "Non-Fiction",
-      "Self-Help"
-    ],
-    "synopsis": "Walter Isaacson’s “enthralling” (\nThe New Yorker\n) worldwide bestselling biography of Apple cofounder Steve Jobs.\nBased on more than forty interviews with Steve Jobs conducted over two years—as well as interviews with more than 100 family members, friends, adversaries, competitors, and colleagues—Walter Isaacson has written a riveting story of the roller-coaster life and searingly intense personality of a creative entrepreneur whose passion for perfection and ferocious drive revolutionized six industries: personal computers, animated movies, music, phones, tablet computing, and digital publish...",
-    "sentiment": "Deep & Profound",
-    "affiliateLink": "https://amzn.to/4q6HLZ0",
-    "communityThoughts": "First and foremost, this is just a good read.I found that Isaacson's bio of Einstein was both interesting and did a profoundly better job of explaining relativity than my physics professors ever did. ...",
-    "id": "31"
   },
   {
     "title": "Unknown Title",
     "author": "Unknown Author",
     "price": 0.0,
     "coverUrl": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?q=80&w=1000",
-    "accentColor": "#EF4444",
+    "accentColor": "#F59E0B",
     "rating": {
       "average": 4.5,
       "count": 100
@@ -634,17 +677,19 @@
       "Self-Help"
     ],
     "synopsis": "No synopsis available.",
-    "sentiment": "Gripping",
-    "affiliateLink": "https://amzn.to/44w9dY6",
-    "communityThoughts": "Absolutely stunning visuals and writing. I couldn't put it down. A masterpiece of modern storytelling.",
-    "id": "32"
+    "sentiment": "Life-Changing",
+    "affiliateLink": "https://amzn.to/4qdDHGO",
+    "reviews": [
+      "Absolutely stunning visuals and writing. I couldn't put it down. A masterpiece of modern storytelling."
+    ],
+    "id": "30"
   },
   {
-    "title": "Greenlights",
-    "author": "Matthew McConaughey",
-    "price": 15.15,
-    "coverUrl": "https://m.media-amazon.com/images/I/61qCtcd7YeL._SY522_.jpg",
-    "accentColor": "#EF4444",
+    "title": "Unknown Title",
+    "author": "Unknown Author",
+    "price": 0.0,
+    "coverUrl": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?q=80&w=1000",
+    "accentColor": "#F59E0B",
     "rating": {
       "average": 4.5,
       "count": 100
@@ -653,10 +698,56 @@
       "Non-Fiction",
       "Self-Help"
     ],
-    "synopsis": "#1 \nNEW YORK TIMES \nBESTSELLER • 6 MILLION COPIES SOLD WORLDWIDE! Discover the life-changing memoir that has inspired millions of readers through the Academy Award–winning actor’s unflinching honesty, unconventional wisdom, and lessons learned the hard way about living with greater satisfaction.\n“The No. 1 celebrity memoir of the past 10 years.”—\nUSA Today\n“McConaughey’s book invites us to grapple with the lessons of his life as he did—and to see that the point was never to win, but to understand.”—Mark Manson, author of \nThe Subtle Art of Not Giving a F*ck\nI’ve been in this life for fifty yea...",
-    "sentiment": "Essential Reading",
+    "synopsis": "No synopsis available.",
+    "sentiment": "Mind-Bending",
+    "affiliateLink": "https://amzn.to/4q6HLZ0",
+    "reviews": [
+      "Absolutely stunning visuals and writing. I couldn't put it down. A masterpiece of modern storytelling."
+    ],
+    "id": "31"
+  },
+  {
+    "title": "Unknown Title",
+    "author": "Unknown Author",
+    "price": 0.0,
+    "coverUrl": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?q=80&w=1000",
+    "accentColor": "#10B981",
+    "rating": {
+      "average": 4.5,
+      "count": 100
+    },
+    "tags": [
+      "Non-Fiction",
+      "Self-Help"
+    ],
+    "synopsis": "No synopsis available.",
+    "sentiment": "Mind-Bending",
+    "affiliateLink": "https://amzn.to/44w9dY6",
+    "reviews": [
+      "Absolutely stunning visuals and writing. I couldn't put it down. A masterpiece of modern storytelling."
+    ],
+    "id": "32"
+  },
+  {
+    "title": "Unknown Title",
+    "author": "Unknown Author",
+    "price": 0.0,
+    "coverUrl": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?q=80&w=1000",
+    "accentColor": "#D4A373",
+    "rating": {
+      "average": 4.5,
+      "count": 100
+    },
+    "tags": [
+      "Non-Fiction",
+      "Self-Help"
+    ],
+    "synopsis": "No synopsis available.",
+    "sentiment": "Visionary",
     "affiliateLink": "https://amzn.to/44t7ZwD",
-    "communityThoughts": "Absolutely stunning visuals and writing. I couldn't put it down. A masterpiece of modern storytelling.",
+    "reviews": [
+      "Absolutely stunning visuals and writing. I couldn't put it down. A masterpiece of modern storytelling."
+    ],
     "id": "33"
   },
   {
@@ -664,19 +755,22 @@
     "author": "Mihaly Csikszentmihalyi",
     "price": 0.0,
     "coverUrl": "https://m.media-amazon.com/images/I/610GM3WYL7L._SY522_.jpg",
-    "accentColor": "#EF4444",
+    "accentColor": "#3B82F6",
     "rating": {
-      "average": 4.6,
+      "average": 4.5,
       "count": 100
     },
     "tags": [
-      "Non-Fiction",
-      "Self-Help"
+      "Arts & Photography",
+      "History & Criticism",
+      "History"
     ],
     "synopsis": "“Csikszentmihalyi arrives at an insight that many of us can intuitively grasp, despite our insistent (and culturally supported) denial of this truth. That is, it is not what happens to us that determines our happiness, but the manner in which we make sense of that reality. . . . T\nhe manner in which Csikszentmihalyi integrates research on consciousness, personal psychology and spirituality is i\nlluminating.” \n—Los Angeles Times Book Review\nThe bestselling classic that holds the key to unlocking meaning, creativity, peak performance, and true happiness. \nLegendary psychologist Mihaly Csikszentm...",
-    "sentiment": "Life-Changing",
+    "sentiment": "Mind-Bending",
     "affiliateLink": "https://amzn.to/4se6nkP",
-    "communityThoughts": "My takeaway  from reading the book, Flow by Michaly Csikzentmihalyi is that happiness can be achieved by changing consciousness in which you bring order to  tasks that you do (sometimes daily) and can...",
+    "reviews": [
+      "Absolutely stunning visuals and writing. I couldn't put it down. A masterpiece of modern storytelling."
+    ],
     "id": "34"
   },
   {
@@ -694,36 +788,40 @@
       "Self-Help"
     ],
     "synopsis": "No synopsis available.",
-    "sentiment": "Essential Reading",
+    "sentiment": "Gripping",
     "affiliateLink": "https://amzn.to/4s2dFrM",
-    "communityThoughts": "Absolutely stunning visuals and writing. I couldn't put it down. A masterpiece of modern storytelling.",
+    "reviews": [
+      "Absolutely stunning visuals and writing. I couldn't put it down. A masterpiece of modern storytelling."
+    ],
     "id": "35"
   },
   {
-    "title": "The Alchemist Deluxe Edition: A Fable About Following Your Dream",
-    "author": "Paulo Coelho",
+    "title": "Unknown Title",
+    "author": "Unknown Author",
     "price": 0.0,
-    "coverUrl": "https://m.media-amazon.com/images/I/81MLsqv7lIL._SY522_.jpg",
+    "coverUrl": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?q=80&w=1000",
     "accentColor": "#F59E0B",
     "rating": {
-      "average": 4.7,
+      "average": 4.5,
       "count": 100
     },
     "tags": [
       "Non-Fiction",
       "Self-Help"
     ],
-    "synopsis": "A beautiful keepsake edition of the extraordinary and beloved international bestseller.\n\"It’s a brilliant, magical, life-changing book that continues to blow my mind with its lessons.\"—Neil Patrick Harris, actor\n“Translated into 80 languages, the allegory teaches us about dreams, destiny, and the reason we are all here.”—Oprah Daily\nCombining magic, mysticism, wisdom, and wonder into an inspiring tale of self-discovery, \nThe Alchemist\n has become a modern classic, selling millions of copies around the world and transforming the lives of countless readers across generations.\nThis story, dazzlin...",
-    "sentiment": "Gripping",
+    "synopsis": "No synopsis available.",
+    "sentiment": "Mind-Bending",
     "affiliateLink": "https://amzn.to/4iYSYIT",
-    "communityThoughts": "Why I Bought ItI had heard so many people recommend The Alchemist as a life-changing book, and I finally decided to see what it was about.Pros• Beautifully written, with simple but powerful language• ...",
+    "reviews": [
+      "Absolutely stunning visuals and writing. I couldn't put it down. A masterpiece of modern storytelling."
+    ],
     "id": "36"
   },
   {
-    "title": "Range: Why Generalists Triumph in a Specialized World",
-    "author": "David Epstein",
+    "title": "Unknown Title",
+    "author": "Unknown Author",
     "price": 0.0,
-    "coverUrl": "https://m.media-amazon.com/images/I/71P+sZn5ctL._SY522_.jpg",
+    "coverUrl": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?q=80&w=1000",
     "accentColor": "#10B981",
     "rating": {
       "average": 4.5,
@@ -733,18 +831,20 @@
       "Non-Fiction",
       "Self-Help"
     ],
-    "synopsis": "The \n#1 New York Times\n bestseller that has all America talking: as seen/heard on \nCNN's Fareed Zakaria GPS\n, Morning Joe, CBS This Morning, The Bill Simmons Podcast, Rich Roll, and more.\n \n“The most important business—and parenting—book of the year.” —\nForbes\n \n“Urgent and important. . . an essential read for bosses, parents, coaches, and anyone who cares about improving performance.” —Daniel H. Pink\n  \nShortlisted for the \nFinancial Times\n/McKinsey Business Book of the Year Award\nPlenty of experts argue that anyone who wants to develop a skill, play an instrument, or lead their field should ...",
-    "sentiment": "Gripping",
+    "synopsis": "No synopsis available.",
+    "sentiment": "Visionary",
     "affiliateLink": "https://amzn.to/4j2QoSs",
-    "communityThoughts": "Absolutely stunning visuals and writing. I couldn't put it down. A masterpiece of modern storytelling.",
+    "reviews": [
+      "Absolutely stunning visuals and writing. I couldn't put it down. A masterpiece of modern storytelling."
+    ],
     "id": "37"
   },
   {
-    "title": "Building a Second Brain: A Proven Method to Organize Your Digital Life and Unlock Your Creative Potential",
-    "author": "Tiago Forte",
+    "title": "Unknown Title",
+    "author": "Unknown Author",
     "price": 0.0,
-    "coverUrl": "https://m.media-amazon.com/images/I/71+IDmZU88L._SY522_.jpg",
-    "accentColor": "#EF4444",
+    "coverUrl": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?q=80&w=1000",
+    "accentColor": "#EC4899",
     "rating": {
       "average": 4.5,
       "count": 100
@@ -753,10 +853,12 @@
       "Non-Fiction",
       "Self-Help"
     ],
-    "synopsis": "“One of my favorite books of the year. It completely reshaped how I think about information and how and why I take notes.” —Daniel Pink, bestselling author of \nDrive\n \nA revolutionary approach to enhancing productivity, creating flow, and vastly increasing your ability to capture, remember, and benefit from the unprecedented amount of information all around us.\nFor the first time in history, we have instantaneous access to the world’s knowledge. There has never been a better time to learn, to contribute, and to improve ourselves. Yet, rather than feeling empowered, we are often left feeling ov...",
-    "sentiment": "Visionary",
+    "synopsis": "No synopsis available.",
+    "sentiment": "Deep & Profound",
     "affiliateLink": "https://amzn.to/4ahokZ1",
-    "communityThoughts": "Absolutely stunning visuals and writing. I couldn't put it down. A masterpiece of modern storytelling.",
+    "reviews": [
+      "Absolutely stunning visuals and writing. I couldn't put it down. A masterpiece of modern storytelling."
+    ],
     "id": "38"
   },
   {
@@ -764,7 +866,7 @@
     "author": "Unknown Author",
     "price": 0.0,
     "coverUrl": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?q=80&w=1000",
-    "accentColor": "#EF4444",
+    "accentColor": "#F59E0B",
     "rating": {
       "average": 4.5,
       "count": 100
@@ -776,168 +878,10 @@
     "synopsis": "No synopsis available.",
     "sentiment": "Mind-Bending",
     "affiliateLink": "https://amzn.to/48UnNtR",
-    "communityThoughts": "Absolutely stunning visuals and writing. I couldn't put it down. A masterpiece of modern storytelling.",
+    "reviews": [
+      "Absolutely stunning visuals and writing. I couldn't put it down. A masterpiece of modern storytelling."
+    ],
     "id": "39"
-  },
-  {
-    "title": "Getting Things Done: The Art of Stress-Free Productivity",
-    "author": "David Allen",
-    "price": 0.0,
-    "coverUrl": "https://m.media-amazon.com/images/I/61Loe8brBXL._SY522_.jpg",
-    "accentColor": "#EF4444",
-    "rating": {
-      "average": 4.3,
-      "count": 100
-    },
-    "tags": [
-      "Non-Fiction",
-      "Self-Help"
-    ],
-    "synopsis": "One of Daniel Pink's 13 Books to Read Before 30\nThe book \nLifehack \ncalls \n\"The Bible of business and personal productivity.\"\n\"A completely revised and updated edition of the blockbuster bestseller from 'the personal productivity guru'\"\n—\nFast Company\nSince it was first published almost fifteen years ago, David Allen’s \nGetting Things Done \nhas become one of the most influential business books of its era, and the ultimate book on personal organization. “GTD” is now shorthand for an entire way of approaching professional and personal tasks, and has spawned an entire culture of websites, organiz...",
-    "sentiment": "Gripping",
-    "affiliateLink": "https://amzn.to/3Mu6nNb",
-    "communityThoughts": "Self help is not a genre of books I read very often, but I made an exception for David Allen’s Getting Things Done: The Art of Stress-Free Productivity. One of my goals for 2017 was to become better o...",
-    "id": "40"
-  },
-  {
-    "title": "The Laws of Human Nature",
-    "author": "Robert Greene",
-    "price": 0.0,
-    "coverUrl": "https://m.media-amazon.com/images/I/61UPuQRgNKL._SY522_.jpg",
-    "accentColor": "#F59E0B",
-    "rating": {
-      "average": 4.8,
-      "count": 100
-    },
-    "tags": [
-      "Non-Fiction",
-      "Self-Help"
-    ],
-    "synopsis": "From the #1 \nNew York Times\n-bestselling author of \nThe 48 Laws of Power\n comes the definitive new book on decoding the behavior of the people around you. This is the only authorized hardcover edition in the US.\nRobert Greene is a master guide for millions of readers, distilling ancient wisdom and philosophy into essential texts for seekers of power, understanding and mastery. Now he turns to the most important subject of all - understanding people's drives and motivations, even when they are unconscious of them themselves.\nWe are social animals. Our very lives depend on our relationships with...",
-    "sentiment": "Life-Changing",
-    "affiliateLink": "https://amzn.to/491r2zM",
-    "communityThoughts": "Naturally, it was in Robert Greene’s nature to write this book.  Accustomed as he has been to writing about human activity involving power relationships, Greene has produced yet another extraordinary ...",
-    "id": "41"
-  },
-  {
-    "title": "Unknown Title",
-    "author": "Unknown Author",
-    "price": 0.0,
-    "coverUrl": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?q=80&w=1000",
-    "accentColor": "#EC4899",
-    "rating": {
-      "average": 4.5,
-      "count": 100
-    },
-    "tags": [
-      "Non-Fiction",
-      "Self-Help"
-    ],
-    "synopsis": "No synopsis available.",
-    "sentiment": "Life-Changing",
-    "affiliateLink": "https://amzn.to/4oXVqRx",
-    "communityThoughts": "Absolutely stunning visuals and writing. I couldn't put it down. A masterpiece of modern storytelling.",
-    "id": "42"
-  },
-  {
-    "title": "Meditations (Modern Library)",
-    "author": "Marcus Aurelius",
-    "price": 0.0,
-    "coverUrl": "https://m.media-amazon.com/images/I/91Rzt6n8HaL._SY522_.jpg",
-    "accentColor": "#EF4444",
-    "rating": {
-      "average": 4.5,
-      "count": 100
-    },
-    "tags": [
-      "Non-Fiction",
-      "Self-Help"
-    ],
-    "synopsis": "NATIONAL BESTSELLER • Timeless insights into what it takes to lead a meaningful life—still profoundly relevant nearly two thousand years later.\nNow featuring a brand-new foreword from Ryan Holiday, #1 \nNew York Times \nbestselling author of \nThe Obstacle Is the Way\n!\n“\nMeditations\n offers a glimpse into [Marcus Aurelius’s] mind, his habits, and his approach to life. . . . I think any reader would find something useful to take away from it.”—James Clear, #1 \nNew York Times \nbestselling author of \nAtomic Habits\n“It is unbelievable to see how the emperor’s words have stood the test of time. . . . ...",
-    "sentiment": "Gripping",
-    "affiliateLink": "https://amzn.to/4oVl49g",
-    "communityThoughts": "Wow! What a game changer It has been for me to read this. It's also a mind blower! To think that this guy wrote all these musings, or meditations, thousands and thousands of years ago, and that he was...",
-    "id": "43"
-  },
-  {
-    "title": "The Obstacle is the Way Expanded 10th Anniversary Edition: The Timeless Art of Turning Trials into Triumph",
-    "author": "Ryan Holiday",
-    "price": 0.0,
-    "coverUrl": "https://m.media-amazon.com/images/I/71mXLoL1KRL._SY522_.jpg",
-    "accentColor": "#D4A373",
-    "rating": {
-      "average": 4.7,
-      "count": 100
-    },
-    "tags": [
-      "Non-Fiction",
-      "Self-Help"
-    ],
-    "synopsis": "An updated and expanded edition of the book that launched a global phenomenon, \nThe Obstacle Is the Way\n presents an infinitely elastic formula for turning our toughest trials into our greatest triumphs.\nSince bestselling author Ryan Holiday introduced Stoicism to the world with \nThe Obstacle Is the Way\n in 2014, this simple but powerful philosophy for life has taken the world by storm. This brilliant and engaging book is an invaluable source of wisdom for anyone who wants to become more successful at what they do, whether you’re a student, a parent, a professional athlete, or a world leader. ...",
-    "sentiment": "Visionary",
-    "affiliateLink": "https://amzn.to/3L0EWKg",
-    "communityThoughts": "The Obstacle Is the Way is pithy and genuinely impressive. It’s the kind book worth revisiting every six months or so just to reset your mindset and remind yourself of what matters.Ryan’s style really...",
-    "id": "44"
-  },
-  {
-    "title": "Unknown Title",
-    "author": "Unknown Author",
-    "price": 0.0,
-    "coverUrl": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?q=80&w=1000",
-    "accentColor": "#F59E0B",
-    "rating": {
-      "average": 4.5,
-      "count": 100
-    },
-    "tags": [
-      "Non-Fiction",
-      "Self-Help"
-    ],
-    "synopsis": "No synopsis available.",
-    "sentiment": "Gripping",
-    "affiliateLink": "https://amzn.to/4q9hppx",
-    "communityThoughts": "Absolutely stunning visuals and writing. I couldn't put it down. A masterpiece of modern storytelling.",
-    "id": "45"
-  },
-  {
-    "title": "Quiet: The Power of Introverts in a World That Can't Stop Talking",
-    "author": "Susan Cain",
-    "price": 0.0,
-    "coverUrl": "https://m.media-amazon.com/images/I/71BXRqKq4nL._SY522_.jpg",
-    "accentColor": "#EC4899",
-    "rating": {
-      "average": 4.6,
-      "count": 100
-    },
-    "tags": [
-      "Non-Fiction",
-      "Self-Help"
-    ],
-    "synopsis": "#1 \nNEW YORK TIMES\n BESTSELLER • Experience the book that started the Quiet Movement and revolutionized how the world sees introverts—and how introverts see themselves—by offering validation, inclusion, and inspiration\n“Superbly researched, deeply insightful, and a fascinating read, \nQuiet\n is an indispensable resource for anyone who wants to understand the gifts of the introverted half of the population.”—Gretchen Rubin, author of \nThe Happiness Project\nONE OF THE BEST BOOKS OF THE YEAR—\nPeople, O: The Oprah Magazine, Christian Science Monitor, Inc., Library Journal, Kirkus Reviews\n \n \n \nWhat...",
-    "sentiment": "Essential Reading",
-    "affiliateLink": "https://amzn.to/3MDe5V4",
-    "communityThoughts": "I believe this book saved my life.  I'm not prone to melodrama, or to such excessively long reviews, but this is true, and so important to me, I have to say it.  I've been working for years in an extr...",
-    "id": "46"
-  },
-  {
-    "title": "Man's Search for Meaning: Gift Edition",
-    "author": "Viktor E. Frankl",
-    "price": 0.0,
-    "coverUrl": "https://m.media-amazon.com/images/I/81uK7UU+0OL._SY522_.jpg",
-    "accentColor": "#F59E0B",
-    "rating": {
-      "average": 4.5,
-      "count": 100
-    },
-    "tags": [
-      "Non-Fiction",
-      "Self-Help"
-    ],
-    "synopsis": "The bestselling Holocaust memoir about finding purpose and strength in times of despair—selected as a Library of Congress “10 Most Influential Books in America”\nThis stunning gift edition of “one of the great books of our time” \n (Harold S. Kushner) \nfeatures new photos, end papers, and Frankl’s never-before-published speeches and letters.\nHailed as “an enduring work of survival literature” by the New York Times, Viktor Frankl’s account of his time in the Nazi concentration camps—and his insights into our ability to find meaning despite great adversity—has offered solace and guidance to genera...",
-    "sentiment": "Gripping",
-    "affiliateLink": "https://amzn.to/3MDJS8o",
-    "communityThoughts": "Absolutely stunning visuals and writing. I couldn't put it down. A masterpiece of modern storytelling.",
-    "id": "47"
   },
   {
     "title": "Unknown Title",
@@ -954,16 +898,18 @@
       "Self-Help"
     ],
     "synopsis": "No synopsis available.",
-    "sentiment": "Life-Changing",
-    "affiliateLink": "https://amzn.to/4pVYMG1",
-    "communityThoughts": "Absolutely stunning visuals and writing. I couldn't put it down. A masterpiece of modern storytelling.",
-    "id": "48"
+    "sentiment": "Essential Reading",
+    "affiliateLink": "https://amzn.to/3Mu6nNb",
+    "reviews": [
+      "Absolutely stunning visuals and writing. I couldn't put it down. A masterpiece of modern storytelling."
+    ],
+    "id": "40"
   },
   {
-    "title": "Four Thousand Weeks: Time Management for Mortals",
-    "author": "Oliver Burkeman",
+    "title": "Unknown Title",
+    "author": "Unknown Author",
     "price": 0.0,
-    "coverUrl": "https://m.media-amazon.com/images/I/71udc7ZQtVL._SY522_.jpg",
+    "coverUrl": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?q=80&w=1000",
     "accentColor": "#EF4444",
     "rating": {
       "average": 4.5,
@@ -973,10 +919,188 @@
       "Non-Fiction",
       "Self-Help"
     ],
-    "synopsis": "AN INSTANT\n NEW YORK TIMES\n BESTSELLER\n\"Provocative and appealing . . . well worth your extremely limited time.\" ―Barbara Spindel, \nThe Wall Street Journal\nThe average human lifespan is absurdly, insultingly brief. Assuming you live to be eighty, you have just over four thousand weeks.\nNobody needs telling there isn’t enough time. We’re obsessed with our lengthening to-do lists, our overfilled inboxes, work-life balance, and the ceaseless battle against distraction; and we’re deluged with advice on becoming more productive and efficient, and “life hacks” to optimize our days. But such techniqu...",
+    "synopsis": "No synopsis available.",
+    "sentiment": "Gripping",
+    "affiliateLink": "https://amzn.to/491r2zM",
+    "reviews": [
+      "Absolutely stunning visuals and writing. I couldn't put it down. A masterpiece of modern storytelling."
+    ],
+    "id": "41"
+  },
+  {
+    "title": "Unknown Title",
+    "author": "Unknown Author",
+    "price": 0.0,
+    "coverUrl": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?q=80&w=1000",
+    "accentColor": "#3B82F6",
+    "rating": {
+      "average": 4.5,
+      "count": 100
+    },
+    "tags": [
+      "Non-Fiction",
+      "Self-Help"
+    ],
+    "synopsis": "No synopsis available.",
+    "sentiment": "Deep & Profound",
+    "affiliateLink": "https://amzn.to/4oXVqRx",
+    "reviews": [
+      "Absolutely stunning visuals and writing. I couldn't put it down. A masterpiece of modern storytelling."
+    ],
+    "id": "42"
+  },
+  {
+    "title": "Unknown Title",
+    "author": "Unknown Author",
+    "price": 0.0,
+    "coverUrl": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?q=80&w=1000",
+    "accentColor": "#EC4899",
+    "rating": {
+      "average": 4.5,
+      "count": 100
+    },
+    "tags": [
+      "Non-Fiction",
+      "Self-Help"
+    ],
+    "synopsis": "No synopsis available.",
     "sentiment": "Life-Changing",
+    "affiliateLink": "https://amzn.to/4oVl49g",
+    "reviews": [
+      "Absolutely stunning visuals and writing. I couldn't put it down. A masterpiece of modern storytelling."
+    ],
+    "id": "43"
+  },
+  {
+    "title": "Unknown Title",
+    "author": "Unknown Author",
+    "price": 0.0,
+    "coverUrl": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?q=80&w=1000",
+    "accentColor": "#3B82F6",
+    "rating": {
+      "average": 4.5,
+      "count": 100
+    },
+    "tags": [
+      "Non-Fiction",
+      "Self-Help"
+    ],
+    "synopsis": "No synopsis available.",
+    "sentiment": "Deep & Profound",
+    "affiliateLink": "https://amzn.to/3L0EWKg",
+    "reviews": [
+      "Absolutely stunning visuals and writing. I couldn't put it down. A masterpiece of modern storytelling."
+    ],
+    "id": "44"
+  },
+  {
+    "title": "Unknown Title",
+    "author": "Unknown Author",
+    "price": 0.0,
+    "coverUrl": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?q=80&w=1000",
+    "accentColor": "#3B82F6",
+    "rating": {
+      "average": 4.5,
+      "count": 100
+    },
+    "tags": [
+      "Non-Fiction",
+      "Self-Help"
+    ],
+    "synopsis": "No synopsis available.",
+    "sentiment": "Life-Changing",
+    "affiliateLink": "https://amzn.to/4q9hppx",
+    "reviews": [
+      "Absolutely stunning visuals and writing. I couldn't put it down. A masterpiece of modern storytelling."
+    ],
+    "id": "45"
+  },
+  {
+    "title": "Unknown Title",
+    "author": "Unknown Author",
+    "price": 0.0,
+    "coverUrl": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?q=80&w=1000",
+    "accentColor": "#10B981",
+    "rating": {
+      "average": 4.5,
+      "count": 100
+    },
+    "tags": [
+      "Non-Fiction",
+      "Self-Help"
+    ],
+    "synopsis": "No synopsis available.",
+    "sentiment": "Mind-Bending",
+    "affiliateLink": "https://amzn.to/3MDe5V4",
+    "reviews": [
+      "Absolutely stunning visuals and writing. I couldn't put it down. A masterpiece of modern storytelling."
+    ],
+    "id": "46"
+  },
+  {
+    "title": "Unknown Title",
+    "author": "Unknown Author",
+    "price": 0.0,
+    "coverUrl": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?q=80&w=1000",
+    "accentColor": "#EC4899",
+    "rating": {
+      "average": 4.5,
+      "count": 100
+    },
+    "tags": [
+      "Non-Fiction",
+      "Self-Help"
+    ],
+    "synopsis": "No synopsis available.",
+    "sentiment": "Essential Reading",
+    "affiliateLink": "https://amzn.to/3MDJS8o",
+    "reviews": [
+      "Absolutely stunning visuals and writing. I couldn't put it down. A masterpiece of modern storytelling."
+    ],
+    "id": "47"
+  },
+  {
+    "title": "Unknown Title",
+    "author": "Unknown Author",
+    "price": 0.0,
+    "coverUrl": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?q=80&w=1000",
+    "accentColor": "#EF4444",
+    "rating": {
+      "average": 4.5,
+      "count": 100
+    },
+    "tags": [
+      "Non-Fiction",
+      "Self-Help"
+    ],
+    "synopsis": "No synopsis available.",
+    "sentiment": "Life-Changing",
+    "affiliateLink": "https://amzn.to/4pVYMG1",
+    "reviews": [
+      "Absolutely stunning visuals and writing. I couldn't put it down. A masterpiece of modern storytelling."
+    ],
+    "id": "48"
+  },
+  {
+    "title": "Unknown Title",
+    "author": "Unknown Author",
+    "price": 0.0,
+    "coverUrl": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?q=80&w=1000",
+    "accentColor": "#3B82F6",
+    "rating": {
+      "average": 4.5,
+      "count": 100
+    },
+    "tags": [
+      "Non-Fiction",
+      "Self-Help"
+    ],
+    "synopsis": "No synopsis available.",
+    "sentiment": "Mind-Bending",
     "affiliateLink": "https://amzn.to/44umf8t",
-    "communityThoughts": "Absolutely stunning visuals and writing. I couldn't put it down. A masterpiece of modern storytelling.",
+    "reviews": [
+      "Absolutely stunning visuals and writing. I couldn't put it down. A masterpiece of modern storytelling."
+    ],
     "id": "49"
   },
   {
@@ -994,9 +1118,11 @@
       "Self-Help"
     ],
     "synopsis": "No synopsis available.",
-    "sentiment": "Gripping",
+    "sentiment": "Deep & Profound",
     "affiliateLink": "https://amzn.to/4rXRgeQ",
-    "communityThoughts": "Absolutely stunning visuals and writing. I couldn't put it down. A masterpiece of modern storytelling.",
+    "reviews": [
+      "Absolutely stunning visuals and writing. I couldn't put it down. A masterpiece of modern storytelling."
+    ],
     "id": "50"
   },
   {
@@ -1004,7 +1130,7 @@
     "author": "Unknown Author",
     "price": 0.0,
     "coverUrl": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?q=80&w=1000",
-    "accentColor": "#3B82F6",
+    "accentColor": "#EC4899",
     "rating": {
       "average": 4.5,
       "count": 100
@@ -1014,9 +1140,11 @@
       "Self-Help"
     ],
     "synopsis": "No synopsis available.",
-    "sentiment": "Life-Changing",
+    "sentiment": "Visionary",
     "affiliateLink": "https://amzn.to/3KLd252",
-    "communityThoughts": "Absolutely stunning visuals and writing. I couldn't put it down. A masterpiece of modern storytelling.",
+    "reviews": [
+      "Absolutely stunning visuals and writing. I couldn't put it down. A masterpiece of modern storytelling."
+    ],
     "id": "51"
   },
   {
@@ -1024,6 +1152,28 @@
     "author": "Unknown Author",
     "price": 0.0,
     "coverUrl": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?q=80&w=1000",
+    "accentColor": "#10B981",
+    "rating": {
+      "average": 4.5,
+      "count": 100
+    },
+    "tags": [
+      "Non-Fiction",
+      "Self-Help"
+    ],
+    "synopsis": "No synopsis available.",
+    "sentiment": "Visionary",
+    "affiliateLink": "https://amzn.to/4j6Hwen",
+    "reviews": [
+      "Absolutely stunning visuals and writing. I couldn't put it down. A masterpiece of modern storytelling."
+    ],
+    "id": "52"
+  },
+  {
+    "title": "Unknown Title",
+    "author": "Unknown Author",
+    "price": 0.0,
+    "coverUrl": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?q=80&w=1000",
     "accentColor": "#3B82F6",
     "rating": {
       "average": 4.5,
@@ -1034,29 +1184,11 @@
       "Self-Help"
     ],
     "synopsis": "No synopsis available.",
-    "sentiment": "Mind-Bending",
-    "affiliateLink": "https://amzn.to/4j6Hwen",
-    "communityThoughts": "Absolutely stunning visuals and writing. I couldn't put it down. A masterpiece of modern storytelling.",
-    "id": "52"
-  },
-  {
-    "title": "Unknown Title",
-    "author": "Unknown Author",
-    "price": 0.0,
-    "coverUrl": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?q=80&w=1000",
-    "accentColor": "#F59E0B",
-    "rating": {
-      "average": 4.5,
-      "count": 100
-    },
-    "tags": [
-      "Non-Fiction",
-      "Self-Help"
-    ],
-    "synopsis": "No synopsis available.",
-    "sentiment": "Gripping",
+    "sentiment": "Deep & Profound",
     "affiliateLink": "https://amzn.to/4j0npyu",
-    "communityThoughts": "Absolutely stunning visuals and writing. I couldn't put it down. A masterpiece of modern storytelling.",
+    "reviews": [
+      "Absolutely stunning visuals and writing. I couldn't put it down. A masterpiece of modern storytelling."
+    ],
     "id": "53"
   }
 ]

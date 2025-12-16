@@ -99,18 +99,18 @@ export const DetailView = ({ book, onClose }: DetailViewProps) => {
                         </p>
                     </div>
 
-                    {/* Reviews Stub */}
+                    {/* Reviews */}
                     <div>
                         <h3 className="text-xl font-serif text-white mb-4">Community Thoughts</h3>
                         <div className="flex gap-4 overflow-x-auto pb-4 -mx-8 px-8 snap-x">
-                            {[1, 2, 3].map((_, i) => (
+                            {book.reviews.map((review, i) => (
                                 <div key={i} className="min-w-[280px] p-6 rounded-xl bg-white/5 border border-white/10 snap-center">
                                     <div className="flex items-center gap-2 mb-3">
                                         <div className="w-8 h-8 rounded-full bg-gradient-to-br from-purple-500 to-blue-500" />
                                         <span className="text-sm font-medium text-white/80">Reader {i + 1}</span>
                                     </div>
                                     <p className="text-white/60 text-sm italic">
-                                        "Absolutely stunning visuals and writing. I couldn't put it down. A masterpiece of modern storytelling."
+                                        "{review}"
                                     </p>
                                 </div>
                             ))}

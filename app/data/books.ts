@@ -15,7 +15,7 @@ export type Book = {
     synopsis: string;
     sentiment: string;
     affiliateLink: string;
-    communityThoughts: string;
+    reviews: string[];
 };
 
 // Map scraped data to match the type precisely if needed, or just cast if structure matches
@@ -24,5 +24,5 @@ export const books: Book[] = scrapedBooks.map((book) => ({
     // Ensure defaults if missing from JSON (though our script handles most)
     tags: book.tags || ["Non-Fiction"],
     affiliateLink: book.affiliateLink || "#",
-    communityThoughts: book.communityThoughts || "No reviews available yet.",
+    reviews: book.reviews || ["No reviews available yet."],
 }));
