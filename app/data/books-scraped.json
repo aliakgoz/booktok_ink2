@@ -1,8 +1,8 @@
 [
   {
-    "title": "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones: Clear, James: 9780735211292: Amazon.com: Books",
+    "title": "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones: Clear, James",
     "author": "James Clear",
-    "price": 3.99,
+    "price": 6.21,
     "coverUrl": "https://m.media-amazon.com/images/I/81kg51XRc1L._SY522_.jpg",
     "accentColor": "#10B981",
     "rating": {
@@ -15,7 +15,7 @@
       "Social Psychology & Interactions"
     ],
     "synopsis": "No matter your goals, Atomic Habits offers a proven framework for improving--every day. James Clear, one of the world's leading experts on habit formation, reveals practical strategies that will teach you exactly how to form good habits, break bad ones, and master the tiny behaviors that lead to remarkable results.",
-    "sentiment": "Gripping",
+    "sentiment": "Deep & Profound",
     "affiliateLink": "https://amzn.to/48MOaDf",
     "reviews": [
       "One of the core concepts in Atomic Habits is to focus on the small improvement. The impact a 1% improvement per day can make may appear negligible at first, but Clear makes a compelling argument that ...",
@@ -25,22 +25,20 @@
     "id": "1"
   },
   {
-    "title": "The 5AM Club: Own Your Morning. Elevate Your Life.: Sharma, Robin: 9781443456623: Amazon.com: Books",
+    "title": "The 5AM Club: Own Your Morning. Elevate Your Life.: Sharma, Robin",
     "author": "Robin Sharma",
     "price": 2.52,
-    "coverUrl": "https://m.media-amazon.com/images/I/61Av4S46owL._SY522_.jpg",
+    "coverUrl": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?q=80&w=1000",
     "accentColor": "#EC4899",
     "rating": {
       "average": 4.4,
       "count": 36779
     },
     "tags": [
-      "Business & Money",
-      "Management & Leadership",
-      "Leadership & Motivation"
+      "Personal Time Management"
     ],
     "synopsis": "Legendary leadership and elite performance expert Robin Sharma introduced The 5am Club concept over twenty years ago, based on a revolutionary morning routine that has helped his clients maximize their productivity, activate their best health and bulletproof their serenity in this age of overwhelming complexity.",
-    "sentiment": "Mind-Bending",
+    "sentiment": "Life-Changing",
     "affiliateLink": "https://amzn.to/4q0PWWM",
     "reviews": [
       "I started this book when I accepted the 75 Hard Challenge, and it left me feeling truly inspired—like I had unlocked a powerful secret to personal growth and success. Robin Sharma’s storytelling trans...",
@@ -50,11 +48,11 @@
     "id": "2"
   },
   {
-    "title": "Deep Work: Rules for Focused Success in a Distracted World: Newport, Cal: 9781455586691: Amazon.com: Books",
+    "title": "Deep Work: Rules for Focused Success in a Distracted World: Newport, Cal",
     "author": "Cal Newport",
     "price": 3.99,
     "coverUrl": "https://m.media-amazon.com/images/I/91nujEwIpYL._SY522_.jpg",
-    "accentColor": "#D4A373",
+    "accentColor": "#8B5CF6",
     "rating": {
       "average": 4.6,
       "count": 35372
@@ -75,45 +73,45 @@
     "id": "3"
   },
   {
-    "title": "Essentialism: The Disciplined Pursuit of Less",
+    "title": "Essentialism: The Disciplined Pursuit of Less: McKeown, Greg",
     "author": "Greg McKeown",
-    "price": 101.66,
-    "coverUrl": "https://m.media-amazon.com/images/I/61QfKSGnwEL._SY522_.jpg",
+    "price": 2.38,
+    "coverUrl": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?q=80&w=1000",
     "accentColor": "#10B981",
     "rating": {
       "average": 4.6,
       "count": 20532
     },
     "tags": [
-      "Business & Money",
-      "Management & Leadership",
-      "Decision-Making & Problem Solving"
+      "Time Management"
     ],
-    "synopsis": "THE LIFE-CHANGING \nNEW YORK TIMES\n BESTSELLER • MORE THAN TWO MILLION COPIES SOLD\n“Essentialism holds the keys to solving one of the great puzzles of life: How can we do less but accomplish more?”—Adam Grant, bestselling author of \nThink Again\nEssentialism isn’t about getting more done in less time. It’s about getting only the right things done.\nHave you ever found yourself stretched too thin?\nAre you often busy but not productive?\nDo you feel like your time is constantly being hijacked?\nIf you answered yes to any of these, the way out is the \nWay of the Essentialist\n.\n \n \nEssentialism is more...",
-    "sentiment": "Mind-Bending",
+    "synopsis": "Missing dust jacket; May have limited writing in cover pages. Pages are unmarked. ~ ThriftBooks: Read More, Spend Less Missing dust jacket; May have limited writing in cover pages. Pages are unmarked. ~ ThriftBooks: Read More, Spend Less [See less](javascript:void(0))",
+    "sentiment": "Visionary",
     "affiliateLink": "https://amzn.to/48Un7EC",
     "reviews": [
-      "Life is complicated. Life is full of responsibilities and opportunities, planned duties and serendipitous possibilities. There is so much we could do, but so little we can do. Many of us battle our wh...",
-      "I just finished a wonderful book called Essentialism by Greg McKeown.  He talks about the disciplined pursuit of less. A wonderful mantra for business and for our personal lives. I don't say this ofte...",
-      "I have re read this book already twice and it’s so direct and well written it’s one on my favourites on the subject"
+      "Help is here in the form of Greg McKeown’s book Essentialism. While it is not a perfect book, and while it benefits tremendously from adding a good dose of Christian thinking, it is one of the most he...",
+      "McKeown believes in what he calls Essentialism and describes the basic value proposition in this way: “only once you give yourself permission to stop trying to do it all, to stop saying yes to everyon...",
+      "The way of the Essentialist means living by design, not by default. Instead of making choices reactively, the Essentialist deliberately distinguishes the vital few from the trivial many, eliminates th..."
     ],
     "id": "4"
   },
   {
-    "title": "Make Time: How to Focus on What Matters Every Day: Knapp, Jake, Zeratsky, John: 9780525572428: Amazon.com: Books",
-    "author": "Jake Knapp & John Zeratsky",
+    "title": "Make Time: How to Focus on What Matters Every Day: Knapp, Jake, Zeratsky, John",
+    "author": "Jake Knapp",
     "price": 3.99,
-    "coverUrl": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?q=80&w=1000",
-    "accentColor": "#D4A373",
+    "coverUrl": "https://m.media-amazon.com/images/I/71x4c1e4cGL._SY522_.jpg",
+    "accentColor": "#10B981",
     "rating": {
       "average": 4.5,
       "count": 5465
     },
     "tags": [
-      "Time Management"
+      "Business & Money",
+      "Business Culture",
+      "Work Life Balance"
     ],
     "synopsis": "Nobody ever looked at an empty calendar and said, \"The best way to spend this time is by cramming it full of meetings!\" or got to work in the morning and thought, Today I'll spend hours on Facebook! Yet that's exactly what we do. Why?",
-    "sentiment": "Life-Changing",
+    "sentiment": "Gripping",
     "affiliateLink": "https://amzn.to/3N0VORC",
     "reviews": [
       "The book never comes off as preachy. Instead, I would describe it as charming and self-deprecating. Reading their stories and insights is like having a wonderful conversation with a very good friend w...",
@@ -123,11 +121,11 @@
     "id": "5"
   },
   {
-    "title": "Limitless Expanded Edition: Upgrade Your Brain, Learn Anything Faster, and Unlock Your Exceptional Life: Kwik, Jim: 9781401968717: Amazon.com: Books",
+    "title": "Limitless Expanded Edition: Upgrade Your Brain, Learn Anything Faster, and Unlock Your Exceptional Life: Kwik, Jim",
     "author": "Jim Kwik",
     "price": 8.17,
     "coverUrl": "https://m.media-amazon.com/images/I/71YKosk1-8L._SY522_.jpg",
-    "accentColor": "#D4A373",
+    "accentColor": "#3B82F6",
     "rating": {
       "average": 4.7,
       "count": 1271
@@ -138,7 +136,7 @@
       "Motivation & Self-Improvement"
     ],
     "synopsis": "For over 25 years, Jim Kwik has worked closely with successful men and women who are at the top in their fields as actors, athletes, CEOs, and business leaders from all walks of life to unlock their true potential. In this groundbreaking book, he reveals the science-based practices and field-tested tips to accelerate self-learning, communication, memory, focus, recall, and speed reading, to create fast, hard results.",
-    "sentiment": "Deep & Profound",
+    "sentiment": "Visionary",
     "affiliateLink": "https://amzn.to/3YsPl4w",
     "reviews": [
       "The author's engaging writing style and genuine passion for empowering individuals shine through every page, making it an easy yet profound read. What sets \"Limitless Expanded\" apart is Kwik's ability...",
@@ -148,9 +146,9 @@
     "id": "6"
   },
   {
-    "title": "Digital Minimalism: Choosing a Focused Life in a Noisy World",
+    "title": "Amazon.com: Digital Minimalism: Choosing a Focused Life in a Noisy World: : Newport, Cal: Books",
     "author": "Cal Newport",
-    "price": 8.59,
+    "price": 8.49,
     "coverUrl": "https://m.media-amazon.com/images/I/81x+9opgESL._SY522_.jpg",
     "accentColor": "#EF4444",
     "rating": {
@@ -162,31 +160,33 @@
       "Business Culture",
       "Motivation & Self-Improvement"
     ],
-    "synopsis": "A \nNew York Times, Wall Street Journal, Publishers Weekly, \nand \nUSA Today \nbestseller\n\"Newport is making a bid to be the Marie Kondo of technology: someone with an actual plan for helping you realize the digital pursuits that do, and don't, bring value to your life.\"--Ezra Klein, Vox\nMinimalism is the art of knowing how much is just enough. Digital minimalism applies this idea to our personal technology. It's the key to living a focused life in an increasingly noisy world.\nIn this timely and enlightening book, the bestselling author of \nDeep Work\n introduces a philosophy for technology use th...",
-    "sentiment": "Essential Reading",
+    "synopsis": "Digital minimalists are all around us. They're the calm, happy people who can hold long conversations without furtive glances at their phones. They can get lost in a good book, a woodworking project, or a leisurely morning run. They can have fun with friends and family without the obsessive urge to document the experience. They stay informed about the news of the day, but don't feel overwhelmed by it. They don't experience \"fear of missing out\" because they already know which activities provide them meaning and satisfaction.",
+    "sentiment": "Gripping",
     "affiliateLink": "https://amzn.to/3XQjDhv",
     "reviews": [
-      "The reading is compelling, instructional, and practical.  I couldn’t put Digital Minimalism down, and ended up \"consuming” it in only 4 sits.  Because of that, I feel compelled to share a review befor...",
-      "As is always the case, I really enjoyed Cal Newport's writing in his new work.  I'm a bit biased in that I read his original yellow book (How to Win at College) almost ten years ago upon beginning col...",
-      "Çok güzel kitap, dijital dünya da kaybolduğumuzun farkındalığını anlatıyor. Ciltli bu fiyata olması da ayrı güzel"
+      "Let me divide this review into 3 parts. First I'll share reasons why I chose to read the book and some personal takeaways. Next, a summary of the book including short excerpts I highlighted while taki...",
+      "I probably pre-ordered this book because I’ve been intrigued by how the overused of modern technologies—specially social networks and social media—have influenced our societies during the last 10 year...",
+      "We all acknowledge the wonders of technology, how the development of new tools has helped the prosperity of our societies in many dimensions. However, the opposite is equally important—consequences th..."
     ],
     "id": "7"
   },
   {
-    "title": "Amazon.com: The Compound Effect (10th Anniversary Edition): Jumpstart Your Income, Your Life, Your Success: 9780306924637: Hardy, Darren: Books",
+    "title": "Amazon.com: The Compound Effect (10th Anniversary Edition): Jumpstart Your Income, Your Life, Your Success: : Hardy, Darren: Books",
     "author": "Darren Hardy",
     "price": 3.11,
-    "coverUrl": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?q=80&w=1000",
-    "accentColor": "#8B5CF6",
+    "coverUrl": "https://m.media-amazon.com/images/I/71vffeIFyGL._SY522_.jpg",
+    "accentColor": "#EC4899",
     "rating": {
       "average": 4.7,
       "count": 20726
     },
     "tags": [
-      "Business Motivation & Self-Improvement"
+      "Business & Money",
+      "Business Culture",
+      "Motivation & Self-Improvement"
     ],
     "synopsis": "Darren Hardy has heard it all, seen it all, and tried most of it. This book reveals the core principles that drive success. The Compound Effect contains the essence of what every superachiever needs to know, practice, and master to obtain extraordinary success. Inside you will find strategies on:",
-    "sentiment": "Visionary",
+    "sentiment": "Gripping",
     "affiliateLink": "https://amzn.to/4pwgrUi",
     "reviews": [
       "Reviewed in the United States on November 20, 2023   \"The Compound Effect\" is a game-changer! Darren Hardy's insights on small, consistent actions leading to significant results are eye-opening. The b...",
@@ -196,11 +196,11 @@
     "id": "8"
   },
   {
-    "title": "Grit: The Power of Passion and Perseverance: Duckworth, Angela: 9781501111105: Amazon.com: Books",
+    "title": "Grit: The Power of Passion and Perseverance: Duckworth, Angela",
     "author": "Angela Duckworth",
     "price": 1.52,
     "coverUrl": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?q=80&w=1000",
-    "accentColor": "#EC4899",
+    "accentColor": "#D4A373",
     "rating": {
       "average": 4.6,
       "count": 20316
@@ -209,7 +209,7 @@
       "Popular Applied Psychology"
     ],
     "synopsis": "May have limited writing in cover pages. Pages are unmarked. ~ ThriftBooks: Read More, Spend Less May have limited writing in cover pages. Pages are unmarked. ~ ThriftBooks: Read More, Spend Less [See less](javascript:void(0))",
-    "sentiment": "Deep & Profound",
+    "sentiment": "Visionary",
     "affiliateLink": "https://amzn.to/4pznz29",
     "reviews": [
       "What I liked most is how the book mixes research with real stories from athletes, students, business leaders, and everyday people who pushed past setbacks. It feels motivating without being cheesy, an...",
@@ -219,7 +219,7 @@
     "id": "9"
   },
   {
-    "title": "Amazon.com: Can't Hurt Me: Master Your Mind and Defy the Odds: 9781544512280: David Goggins: Books",
+    "title": "Amazon.com: Can't Hurt Me: Master Your Mind and Defy the Odds: : David Goggins: Books",
     "author": "David Goggins",
     "price": 3.99,
     "coverUrl": "https://m.media-amazon.com/images/I/81YJFNc54lL._SY522_.jpg",
@@ -232,7 +232,7 @@
       "Health, Fitness & Dieting"
     ],
     "synopsis": "For David Goggins, childhood was a nightmare -- poverty, prejudice, and physical abuse colored his days and haunted his nights. But through self-discipline, mental toughness, and hard work, Goggins transformed himself from a depressed, overweight young man with no future into a U.S. Armed Forces icon and one of the world's top endurance athletes. The only man in history to complete elite training as a Navy SEAL, Army Ranger, and Air Force Tactical Air Controller, he went on to set records in numerous endurance events, inspiring Outside magazine to name him \"The Fittest (Real) Man in America.\"",
-    "sentiment": "Gripping",
+    "sentiment": "Essential Reading",
     "affiliateLink": "https://amzn.to/48MOQbL",
     "reviews": [
       "I’ve reread this book multiple times, and each time I take away something new. Whether I’m going through a tough season or just need a reminder to push harder, this book gives me the drive to keep goi...",
@@ -242,7 +242,7 @@
     "id": "10"
   },
   {
-    "title": "Mindset: The New Psychology of Success: Dweck, Carol S.: 9781400062751: Amazon.com: Office Products",
+    "title": "Mindset: The New Psychology of Success: Dweck, Carol S.: : Amazon.com: Office Products",
     "author": "Carol S. Dweck",
     "price": 1.63,
     "coverUrl": "https://m.media-amazon.com/images/I/71wEDMAAnOL._SY522_.jpg",
@@ -259,7 +259,7 @@
       "Hardcover Executive Notebooks"
     ],
     "synopsis": "Pages can have notes/highlighting. Spine may show signs of wear. ~ ThriftBooks: Read More, Spend Less Pages can have notes/highlighting. Spine may show signs of wear. ~ ThriftBooks: Read More, Spend Less [See less](javascript:void(0))",
-    "sentiment": "Life-Changing",
+    "sentiment": "Visionary",
     "affiliateLink": "https://amzn.to/3KI8dcH",
     "reviews": [
       "What I liked most is how the book breaks down how our beliefs about ability and talent can either hold us back or push us forward. It made me think about times where I avoided challenges or got frustr...",
@@ -269,19 +269,17 @@
     "id": "11"
   },
   {
-    "title": "Thinking, Fast and Slow: Kahneman, Daniel: 9780374275631: Amazon.com: Books",
-    "author": "Daniel Kahneman",
+    "title": "Thinking, Fast and Slow: Kahneman, Daniel",
+    "author": "Daniel Kahnema",
     "price": 2.95,
-    "coverUrl": "https://m.media-amazon.com/images/I/61n7jZ8xQ6L._SY522_.jpg",
-    "accentColor": "#D4A373",
+    "coverUrl": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?q=80&w=1000",
+    "accentColor": "#10B981",
     "rating": {
       "average": 4.6,
       "count": 47387
     },
     "tags": [
-      "Business & Money",
-      "Management & Leadership",
-      "Decision-Making & Problem Solving"
+      "Cognitive Psychology"
     ],
     "synopsis": "In his mega bestseller, Thinking, Fast and Slow, Daniel Kahneman, world-famous psychologist and winner of the Nobel Prize in Economics, takes us on a groundbreaking tour of the mind and explains the two systems that drive the way we think.",
     "sentiment": "Gripping",
@@ -294,11 +292,11 @@
     "id": "12"
   },
   {
-    "title": "Discipline Is Destiny: The Power of Self-Control (The Stoic Virtues Series): Holiday, Ryan: 9780593191699: Amazon.com: Books",
+    "title": "Discipline Is Destiny: The Power of Self-Control (The Stoic Virtues Series): Holiday, Ryan",
     "author": "Ryan Holiday",
     "price": 3.99,
     "coverUrl": "https://m.media-amazon.com/images/I/81kQ4rTDHAL._SY522_.jpg",
-    "accentColor": "#8B5CF6",
+    "accentColor": "#F59E0B",
     "rating": {
       "average": 4.7,
       "count": 5462
@@ -311,7 +309,7 @@
       "Ancient Greek & Roman"
     ],
     "synopsis": "Supports Goodwill of Silicon Valley job training programs. The cover and pages are in very good condition! The cover and any other included accessories are also in very good condition showing some minor use. The spine is straight, there are no rips tears or creases on the cover or the pages. Supports Goodwill of Silicon Valley job training programs. The cover and pages are in very good condition! The cover and any other included accessories are also in very good condition showing some minor use. The spine is straight, there are no rips tears or creases on the cover or the pages. [See less](jav...",
-    "sentiment": "Gripping",
+    "sentiment": "Essential Reading",
     "affiliateLink": "https://amzn.to/4q8LEN5",
     "reviews": [
       "Many of the stories in his book Discipline Is Destiny are about stoics such as Seneca, Marcus Aurelius, and Antoninius. To illustrate the principles he is teaching, Holiday also shares dozens of stori...",
@@ -321,11 +319,11 @@
     "id": "13"
   },
   {
-    "title": "The Psychology of Money: Timeless lessons on wealth, greed, and happiness: Housel, Morgan: 9781804091609: Amazon.com: Books",
+    "title": "The Psychology of Money: Timeless lessons on wealth, greed, and happiness: Housel, Morgan",
     "author": "Morgan Housel",
     "price": 3.99,
     "coverUrl": "https://m.media-amazon.com/images/I/81Ng+3k+jbL._SY522_.jpg",
-    "accentColor": "#D4A373",
+    "accentColor": "#F59E0B",
     "rating": {
       "average": 4.7,
       "count": 67253
@@ -336,7 +334,7 @@
       "Wealth Management"
     ],
     "synopsis": "Money – investing, personal finance, and business decisions – is typically taught as a math-based field, where data and formulas tell us exactly what to do. But in the real world people don't make financial decisions on a spreadsheet. They make them at the dinner table, or in a meeting room, where personal history, your own unique view of the world, ego, pride, marketing, and odd incentives are scrambled together.",
-    "sentiment": "Essential Reading",
+    "sentiment": "Life-Changing",
     "affiliateLink": "https://amzn.to/48DoUz3",
     "reviews": [
       "The first chapter alone is a treasure trove of wisdom, filled with \"gems\" that challenge conventional thinking about wealth, greed, and happiness. Through captivating storytelling and thought-provokin...",
@@ -346,11 +344,11 @@
     "id": "14"
   },
   {
-    "title": "Amazon.com: Rich Dad Poor Dad: What the Rich Teach Their Kids About Money That the Poor and Middle Class Do Not!: 9781612681139: Kiyosaki, Robert T.: Books",
+    "title": "Amazon.com: Rich Dad Poor Dad: What the Rich Teach Their Kids About Money That the Poor and Middle Class Do Not!: : Kiyosaki, Robert T.: Books",
     "author": "Robert T. Kiyosaki",
     "price": 2.45,
     "coverUrl": "https://m.media-amazon.com/images/I/81BE7eeKzAL._SY522_.jpg",
-    "accentColor": "#D4A373",
+    "accentColor": "#F59E0B",
     "rating": {
       "average": 4.7,
       "count": 105643
@@ -360,7 +358,7 @@
       "Personal Finance"
     ],
     "synopsis": "Pages are clean and are not marred by notes or folds of any kind. ~ ThriftBooks: Read More, Spend Less Pages are clean and are not marred by notes or folds of any kind. ~ ThriftBooks: Read More, Spend Less [See less](javascript:void(0))",
-    "sentiment": "Gripping",
+    "sentiment": "Visionary",
     "affiliateLink": "https://amzn.to/3MCP0JZ",
     "reviews": [
       "First and foremost, the knowledge and wisdom imparted by Robert Kiyosaki in \"Rich Dad Poor Dad\" are eye-opening. Through relatable stories and personal experiences, Kiyosaki challenges conventional be...",
@@ -370,22 +368,21 @@
     "id": "15"
   },
   {
-    "title": "The Millionaire Fastlane: Crack the Code to Wealth and Live Rich for a Lifetime: DeMarco, MJ: 9780984358137: Amazon.com: Books",
+    "title": "The Millionaire Fastlane: Crack the Code to Wealth and Live Rich for a Lifetime: DeMarco, MJ",
     "author": "MJ DeMarco",
     "price": 1.0,
-    "coverUrl": "https://m.media-amazon.com/images/I/61QNCPPqP5L._SY522_.jpg",
-    "accentColor": "#EF4444",
+    "coverUrl": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?q=80&w=1000",
+    "accentColor": "#3B82F6",
     "rating": {
       "average": 4.7,
       "count": 13458
     },
     "tags": [
-      "Business & Money",
-      "Business Development & Entrepreneurship",
-      "Entrepreneurship"
+      "5.   !Image 114 Shop the Store on Amazon",
+      "!Image 115: The Only Retirement Planning Book You'll Ever Need: Your Guide To A Stress-Free Retirement - Achieve Financial Freedom, Make Your Money Last, & Savor Life After Work   The Only Retirement Planning Book You'll Ever Need: Your Guide To A Stress-Free Retirement - Achieve Financial Freedom, Make Your Money Last, & Savor Life After Work 4.3 _4.3 out of 5 stars_ 268 $21.97$21.97"
     ],
     "synopsis": "\"Graduate from college, get a good job, save 10% of your paycheck, buy a used car, cancel the movie channels, quit buying expensive Starbucks coffee, save and penny-pinch for decades, trust your life-savings to Wall Street, and one day, when you are oh, say, 65 years old, you can retire rich. Or, if you're a REALLLLLLY good investor and save every dime you earn, you can \"retire early\" while doing nothing, buying nothing, and homesteading in a trailer down by the river.\"",
-    "sentiment": "Gripping",
+    "sentiment": "Mind-Bending",
     "affiliateLink": "https://amzn.to/4pznX0B",
     "reviews": [
       "After reading MJ's book, I have probably already recommended it to 30+ of my closest entrepreneurial friends who also have felt the same about the book.",
@@ -395,7 +392,7 @@
     "id": "16"
   },
   {
-    "title": "Amazon.com: I Will Teach You to Be Rich: No Guilt. No Excuses. Just a 6-Week Program That Works (Second Edition): 9781523505746: Sethi, Ramit: Books",
+    "title": "Amazon.com: I Will Teach You to Be Rich: No Guilt. No Excuses. Just a 6-Week Program That Works (Second Edition): : Sethi, Ramit: Books",
     "author": "Ramit Sethi",
     "price": 3.99,
     "coverUrl": "https://m.media-amazon.com/images/I/81c9SSbG3OL._SY522_.jpg",
@@ -410,7 +407,7 @@
       "Wealth Management"
     ],
     "synopsis": "Personal finance expert Ramit Sethi has been called a “wealth wizard” by Forbes and the “new guru on the block” by Fortune. Now he’s updated and expanded his modern money classic for a new age, delivering a simple, powerful, no-BS 6-week program.",
-    "sentiment": "Deep & Profound",
+    "sentiment": "Mind-Bending",
     "affiliateLink": "https://amzn.to/4iVOu5P",
     "reviews": [
       "I read most of the book when I was 18 as an undergrad and revisited a couple time till I graduated college and got my teaching credential at 25. I both read and scanned, sometimes without fully compre...",
@@ -420,23 +417,20 @@
     "id": "17"
   },
   {
-    "title": "Zero to One: Notes on Startups, or How to Build the Future: Thiel, Peter, Masters, Blake: 9780804139298: Amazon.com: Books",
+    "title": "Zero to One: Notes on Startups, or How to Build the Future: Thiel, Peter, Masters, Blake",
     "author": "Peter Thiel",
     "price": 4.98,
-    "coverUrl": "https://m.media-amazon.com/images/I/51zGCdRQXOL._SY522_.jpg",
-    "accentColor": "#8B5CF6",
+    "coverUrl": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?q=80&w=1000",
+    "accentColor": "#3B82F6",
     "rating": {
       "average": 4.5,
       "count": 39125
     },
     "tags": [
-      "Politics & Social Sciences",
-      "Politics & Government",
-      "Public Affairs & Policy",
-      "Economic Policy"
+      "Starting a Business"
     ],
     "synopsis": "The great secret of our time is that there are still uncharted frontiers to explore and new inventions to create. In Zero to One, legendary entrepreneur and investor Peter Thiel shows how we can find singular ways to create those new things.",
-    "sentiment": "Mind-Bending",
+    "sentiment": "Essential Reading",
     "affiliateLink": "https://amzn.to/3MBk7pq",
     "reviews": [
       "When I first saw the price I almost hit exit. However, I thought “If this guy has the balls to ask this price, this book had better be good”. Else I'm going to roast him in my Amazon review. I ain't r...",
@@ -446,11 +440,11 @@
     "id": "18"
   },
   {
-    "title": "Start with Why 15th Anniversary Edition: How Great Leaders Inspire Everyone to Take Action: Sinek, Simon: 9798217045631: Amazon.com: Books",
+    "title": "Start with Why 15th Anniversary Edition: How Great Leaders Inspire Everyone to Take Action: Sinek, Simon",
     "author": "Simon Sinek",
     "price": 2.06,
     "coverUrl": "https://m.media-amazon.com/images/I/71oQGkFtFUL._SY522_.jpg",
-    "accentColor": "#EF4444",
+    "accentColor": "#10B981",
     "rating": {
       "average": 4.6,
       "count": 24578
@@ -461,7 +455,7 @@
       "Motivation & Self-Improvement"
     ],
     "synopsis": "In 2009, Simon Sinek ignited a movement to help people find a greater sense of purpose at work and added a new word to the lexicon of business: WHY. People and companies now regularly talk about their WHY. Sinek’s videos have been seen by over a billion people around the world, including more than 65 million who’ve watched his TED Talk based on Start With Why.",
-    "sentiment": "Essential Reading",
+    "sentiment": "Gripping",
     "affiliateLink": "https://amzn.to/48OYNUz",
     "reviews": [
       "If I could give this book 10 stars, I would! This book beats many other books. This book is so exciting to read that I read it three times! The beginning of the book said it extremely well -- This boo...",
@@ -471,43 +465,42 @@
     "id": "19"
   },
   {
-    "title": "Amazon.com: Good to Great: A Study of Management Strategies of Companies with Lasting Growth: 9780066620992: Collins, Jim: Books",
+    "title": "Good to Great: A Study of Management Strategies of Companies with Lasting Growth",
     "author": "Jim Collins",
-    "price": 1.45,
-    "coverUrl": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?q=80&w=1000",
-    "accentColor": "#EF4444",
+    "price": 106.79,
+    "coverUrl": "https://m.media-amazon.com/images/I/71LhjimPd8L._SY522_.jpg",
+    "accentColor": "#EC4899",
     "rating": {
       "average": 4.5,
       "count": 9623
     },
     "tags": [
-      "Systems & Planning"
+      "Business & Money",
+      "Biography & History",
+      "Company Profiles"
     ],
-    "synopsis": "Missing dust jacket; May have limited writing in cover pages. Pages are unmarked. ~ ThriftBooks: Read More, Spend Less Missing dust jacket; May have limited writing in cover pages. Pages are unmarked. ~ ThriftBooks: Read More, Spend Less [See less](javascript:void(0))",
+    "synopsis": "The Challenge:\nBuilt to Last,\n the defining management study of the nineties, showed how great companies triumph over time and how long-term sustained performance can be engineered into the DNA of an enterprise from the verybeginning.\nBut what about the company that is not born with great DNA? How can good companies, mediocre companies, even bad companies achieve enduring greatness?\nThe Study: \nFor years, this question preyed on the mind of Jim Collins. Are there companies that defy gravity and convert long-term mediocrity or worse into long-term superiority? And if so, what are the universal ...",
     "sentiment": "Mind-Bending",
     "affiliateLink": "https://amzn.to/4aLWEeX",
     "reviews": [
-      "This book is very well laid out, divided into easy to follow chapters that flow one right into the other; I found myself reading over 20 pages at a time without noticing until I took a break! Collins ...",
-      "Collins does not shy away from starting off strong in his book, saying “Greatness is not a function of circumstance. Greatness, it turns out, is largely a matter of conscious choice” (pg. 11). I found...",
-      "I believe by organizing the book in this matter enabled me to really understand the severity of the critical components and how their relationships if applied will in allow a good company to become a ..."
+      "Good to Great by Jim Collins is a compelling and informative book about how to be successful, and how to stay successful. The theme of success is shown through 11 companies who start out less or equal...",
+      "Jim Collins states in his book, \"Good is the enemy of great. And that is one of the key reasons why we have so little that become great...We believe that almost any organization can substantially impr...",
+      "My review is not about the content of the book. My review is about the quality of the book. It says hardcover but it comes a printed in loose paper and wrapped in what it seems a copy not original boo..."
     ],
     "id": "20"
   },
   {
-    "title": "Blue Ocean Strategy, Expanded Edition: How to Create Uncontested Market Space and Make the Competition Irrelevant: Kim, W. Chan, Renée Mauborgne: 9781625274496: Amazon.com: Books",
+    "title": "Blue Ocean Strategy, Expanded Edition: How to Create Uncontested Market Space and Make the Competition Irrelevant: Kim, W. Chan, Renée Mauborgne",
     "author": "W. Chan Kim",
     "price": 2.37,
-    "coverUrl": "https://m.media-amazon.com/images/I/91YCWH4jFdL._SY522_.jpg",
+    "coverUrl": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?q=80&w=1000",
     "accentColor": "#10B981",
     "rating": {
       "average": 4.6,
       "count": 6214
     },
     "tags": [
-      "Business & Money",
-      "Marketing & Sales",
-      "Marketing",
-      "Global"
+      "Systems & Planning"
     ],
     "synopsis": "Missing dust jacket; May have limited writing in cover pages. Pages are unmarked. ~ ThriftBooks: Read More, Spend Less Missing dust jacket; May have limited writing in cover pages. Pages are unmarked. ~ ThriftBooks: Read More, Spend Less [See less](javascript:void(0))",
     "sentiment": "Essential Reading",
@@ -520,11 +513,11 @@
     "id": "21"
   },
   {
-    "title": "Never Split the Difference: Negotiating As If Your Life Depended On It―Unlock Your Persuasion Potential in Professional and Personal Life: Voss, Chris, Raz, Tahl: 9780062407801: Amazon.com: Books",
+    "title": "Never Split the Difference: Negotiating As If Your Life Depended On It―Unlock Your Persuasion Potential in Professional and Personal Life: Voss, Chris, Raz, Tahl",
     "author": "Chris Voss",
     "price": 4.63,
     "coverUrl": "https://m.media-amazon.com/images/I/81PPq8CP4sL._SY522_.jpg",
-    "accentColor": "#8B5CF6",
+    "accentColor": "#10B981",
     "rating": {
       "average": 4.7,
       "count": 49672
@@ -546,11 +539,11 @@
     "id": "22"
   },
   {
-    "title": "Penguin Select Classics: How to Win Friends and Influence People: (Original, Unabridged Classic, Premium Hardbound Collector's Edition, Ideal for Gifting): Carnegie, Dale: 9789815162363: Amazon.com: Books",
+    "title": "Penguin Select Classics: How to Win Friends and Influence People: (Original, Unabridged Classic, Premium Hardbound Collector's Edition, Ideal for Gifting)",
     "author": "Dale Carnegie",
-    "price": 0.99,
+    "price": 133.21,
     "coverUrl": "https://m.media-amazon.com/images/I/61PqhXEJzGL._SY522_.jpg",
-    "accentColor": "#EF4444",
+    "accentColor": "#F59E0B",
     "rating": {
       "average": 4.7,
       "count": 109091
@@ -560,33 +553,31 @@
       "Relationships",
       "Interpersonal Relations"
     ],
-    "synopsis": "Title: Penguin Select Classics: How to Win Friends and Influence People: (Original, Unabridged Classic, Premium Hardbound Collector's Edition, Ideal for Gifting): Carnegie, Dale: 9789815162363: Amazon.com: Books",
-    "sentiment": "Mind-Bending",
+    "synopsis": "THE BESTSELLING BUSINESS CLASSIC TRUSTED BY SUCCESSFUL LEADERS ALL OVER THE WORLD\n Command attention, charm your superiors, and win people over wherever you go. How to Win Friends and Influence People has helped thousands of readers gain self-confidence and unlock life-changing opportunities―and now, it’s your turn. Master the fine art of communication, express your most important ideas, and create genuine impact with the help of international bestselling author Dale Carnegie. Written in his trademark conversational style, this book illustrates time-tested techniques through engaging anecdotes...",
+    "sentiment": "Essential Reading",
     "affiliateLink": "https://amzn.to/4oSlixW",
     "reviews": [
-      "Still though, the question of whether the advice in this book is dated remains. My take is that, the advice and examples given are indeed a tiny bit dated. However the overarching theme of each chapte...",
-      "Each chapter of the book is devoted to a particular principle on what to do in human relations. Every chapter provides a set of stories and quotations. Some of them are from the lives of important Ame...",
-      "The author himself does not provide much of his own comments. He does it mostly in the couple of first chapters, and later on, he only occasionally provides some events from his life as examples of th..."
+      "A must read. For everyone. If you have a young adult or teen in the home? It’s a must. It will give them good, solid and sound advice that will carry them thru in school, in life and in business.",
+      "An outdated classic or a contemporary gem? Do we need an introduction here? “How to Win Friends and Influence People” is the all-time classic and best-selling book in the categories of self-help / per...",
+      "Great Book, Classic, should be required reading in high school and college and business."
     ],
     "id": "23"
   },
   {
-    "title": "Influence, New and Expanded: The Essential Guide to the Psychology of Influence and Persuasion in Everyday Life: Cialdini PhD, Robert B.: 9780062937650: Amazon.com: Books",
-    "author": "Robert B. Cialdini PhD",
+    "title": "Influence, New and Expanded: The Essential Guide to the Psychology of Influence and Persuasion in Everyday Life: Cialdini PhD, Robert B.",
+    "author": "Robert Cialdini",
     "price": 4.49,
-    "coverUrl": "https://m.media-amazon.com/images/I/71SPjJ+UnLL._SY522_.jpg",
-    "accentColor": "#10B981",
+    "coverUrl": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?q=80&w=1000",
+    "accentColor": "#EC4899",
     "rating": {
       "average": 4.7,
       "count": 7017
     },
     "tags": [
-      "Business & Money",
-      "Business Culture",
-      "Motivation & Self-Improvement"
+      "Marketing & Consumer Behavior"
     ],
     "synopsis": "The foundational and wildly popular go-to resource for influence and persuasion—a renowned international bestseller, with over 5 million copies sold—now revised adding: new research, new insights, new examples, and online applications.",
-    "sentiment": "Visionary",
+    "sentiment": "Essential Reading",
     "affiliateLink": "https://amzn.to/4q8M8mn",
     "reviews": [
       "As someone in sales, I initially bought this book hoping to improve my strategy. Instead, I found many of the methods to be largely unethical, and I no longer want to apply them knowingly to my career...",
@@ -596,45 +587,45 @@
     "id": "24"
   },
   {
-    "title": "The 4-Hour Workweek: Escape 9-5, Live Anywhere, and Join the New Rich: Ferriss, Timothy: 9780307465351: Amazon.com: Books",
-    "author": "Tim Ferriss",
-    "price": 1.83,
-    "coverUrl": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?q=80&w=1000",
-    "accentColor": "#F59E0B",
+    "title": "The 4-Hour Workweek: Escape 9-5, Live Anywhere, and Join the New Rich",
+    "author": "Timothy Ferriss",
+    "price": 148.22,
+    "coverUrl": "https://m.media-amazon.com/images/I/71vO9Tbf4-L._SY522_.jpg",
+    "accentColor": "#D4A373",
     "rating": {
       "average": 4.5,
       "count": 27947
     },
     "tags": [
-      "Time Management"
+      "Business & Money",
+      "Business Culture",
+      "Motivation & Self-Improvement"
     ],
-    "synopsis": "Missing dust jacket; May have limited writing in cover pages. Pages are unmarked. ~ ThriftBooks: Read More, Spend Less Missing dust jacket; May have limited writing in cover pages. Pages are unmarked. ~ ThriftBooks: Read More, Spend Less [See less](javascript:void(0))",
-    "sentiment": "Visionary",
+    "synopsis": "The \nNew York Times\n bestselling author of \nThe 4-Hour Body \nshows readers how to live more and work less, now with more than 100 pages of new, cutting-edge content.\nEver wonder, “How can I work smarter and not harder?” Forget the old concept of retirement and the rest of the deferred-life plan–there is no need to wait and every reason not to, especially in unpredictable economic times. Whether your dream is escaping the rat race, experiencing high-end world travel, or earning a monthly five-figure income with zero management, \nThe 4-Hour Workweek\n is the blueprint. \nThis step-by-step guide to...",
+    "sentiment": "Mind-Bending",
     "affiliateLink": "https://amzn.to/48C4ztY",
     "reviews": [
-      "In terms of the seller the book came in excellent condition. Minor bump on the hardcover but for its price it was essentially a steal. I have certainly damaged and defaced it more since I purchased it...",
-      "Reviewed in the United States on February 21, 2024   Obviously when it comes to these books they can be somewhat vague and positive so it can be hard not be contrived. The average cliche's are certain...",
-      "In terms of the seller the book came in excellent condition. Minor bump on the hardcover but for its price it was essentially a steal. I have certainly damaged and defaced it more since I purchased it..."
+      "Obviously when it comes to these books they can be somewhat vague and positive so it can be hard not be contrived. The average cliche's are certainly here and the youth of the writer at the time of it...",
+      "I initially picked up the book to determine for myself what all the positive press was about. I have read it twice and listened to the audiobook version and  can say that the content truly stands up t...",
+      "I had heard a lot of people rave about this book before I finally picked it up and decided to read it for myself. I'm glad that I read it, but I don't think it was quite as life-changing for me as it ..."
     ],
     "id": "25"
   },
   {
-    "title": "Show Your Work!: 10 Ways to Share Your Creativity and Get Discovered: Kleon, Austin: 9780761178972: Amazon.com: Books",
+    "title": "Show Your Work!: 10 Ways to Share Your Creativity and Get Discovered: Kleon, Austin",
     "author": "Austin Kleon",
     "price": 1.76,
-    "coverUrl": "https://m.media-amazon.com/images/I/615i7JSSShL._SY522_.jpg",
-    "accentColor": "#F59E0B",
+    "coverUrl": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?q=80&w=1000",
+    "accentColor": "#EF4444",
     "rating": {
       "average": 4.6,
       "count": 10929
     },
     "tags": [
-      "Arts & Photography",
-      "Graphic Design",
-      "Techniques"
+      "Entrepreneurship"
     ],
     "synopsis": "In his New York Times bestseller Steal Like an Artist, Austin Kleon showed readers how to unlock their creativity by “stealing” from the community of other movers and shakers. Now, in an even more forward-thinking and necessary book, he shows how to take that critical next step on a creative journey―getting known.",
-    "sentiment": "Deep & Profound",
+    "sentiment": "Gripping",
     "affiliateLink": "https://amzn.to/452I3rV",
     "reviews": [
       "Reviewed in the United States on December 22, 2024   Quite frankly, I didn't understand how a 10-part list could make a full book. But I saw the reviews, it was on sale, and I thought, \"Heck. Why not?...",
@@ -644,47 +635,44 @@
     "id": "26"
   },
   {
-    "title": "Big Magic: Creative Living Beyond Fear",
+    "title": "Amazon.com: Big Magic: Creative Living Beyond Fear: : Gilbert, Elizabeth: Books",
     "author": "Elizabeth Gilbert",
-    "price": 127.72,
-    "coverUrl": "https://m.media-amazon.com/images/I/813mCUSzejL._SY522_.jpg",
-    "accentColor": "#8B5CF6",
+    "price": 1.64,
+    "coverUrl": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?q=80&w=1000",
+    "accentColor": "#EF4444",
     "rating": {
       "average": 4.5,
       "count": 23495
     },
     "tags": [
-      "Business & Money",
-      "Business Culture",
-      "Motivation & Self-Improvement"
+      "Creativity"
     ],
-    "synopsis": "The instant #1 NEW YORK TIMES Bestseller\n\"A must read for anyone hoping to live a creative life... I dare you not to be inspired to be brave, to be free, and to be curious.” —PopSugar\nFrom the worldwide bestselling author of \nEat Pray Love \nand \nCity of Girls\n: the path to the vibrant, fulfilling life you’ve dreamed of\n. \n \nReaders of all ages and walks of life have drawn inspiration and empowerment from Elizabeth Gilbert’s books for years. Now this beloved author digs deep into her own generative process to share her wisdom and unique perspective about creativity. With profound empathy and ra...",
-    "sentiment": "Visionary",
+    "synopsis": "Missing dust jacket; May have limited writing in cover pages. Pages are unmarked. ~ ThriftBooks: Read More, Spend Less Missing dust jacket; May have limited writing in cover pages. Pages are unmarked. ~ ThriftBooks: Read More, Spend Less [See less](javascript:void(0))",
+    "sentiment": "Life-Changing",
     "affiliateLink": "https://amzn.to/4oUe0Kg",
     "reviews": [
-      "This book was such a nice change from the other ones I was reading. I found this uplifting, and inspiring. It has given meA new perspective on my own creativity and how I interact with it.",
-      "“Are you considering being a creative person? Too late, you already are one,” Gilbert asserts. In Big Magic, living a creative life means living a life driven by curiosity over fear and this life is a...",
-      "Very encouraging and easy to comprehend.  I feel compelled to continue on with what fuels me no matter what others think or what the outcomes might even be.  This book packed a punch of inspiration an..."
+      "Gilbert tackles our biggest creative fears and inner demons head-on with delicious humor, wit, and grace. She allows fear a spacious spot in the car on our creative road trip, but never allows it to g...",
+      "Written in easy to digest, bite-size chapters, readers will feel as if they’re chatting over a glass of wine with their amusing and insightful bestie, Liz, as she masterfully weaves together numerous ...",
+      "It's almost like a self help book for anyone doubting their ability to create or anyone needing a push to pursue their passion as a hobby."
     ],
     "id": "27"
   },
   {
-    "title": "Amazon.com: The Artist's Way: A Spiritual Path to Higher Creativity: 9781585421473: Cameron, Julia: Books",
+    "title": "Amazon.com: The Artist's Way: A Spiritual Path to Higher Creativity: : Cameron, Julia: Books",
     "author": "Julia Cameron",
     "price": 4.99,
-    "coverUrl": "https://m.media-amazon.com/images/I/81k6Ef+Dk3L._SY522_.jpg",
-    "accentColor": "#3B82F6",
+    "coverUrl": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?q=80&w=1000",
+    "accentColor": "#EC4899",
     "rating": {
       "average": 4.7,
       "count": 13553
     },
     "tags": [
-      "Religion & Spirituality",
-      "New Age & Spirituality",
-      "Inspirational"
+      "1.   !Image 101 Shop the Store on Amazon",
+      "!Image 102: Trippy Art: Coloring Book for Adults Featuring Psychedelic Art and Abstract Drawings of Animals, Mushrooms, Aliens and Magic for Relaxation and Stress Free   Trippy Art: Coloring Book for Adults Featuring Psychedelic Art and Abstract Drawings of Animals, Mushrooms, Aliens and Magic for Relaxation and Stress Free 4.7 _4.7 out of 5 stars_ 227 $9.99$9.99"
     ],
     "synopsis": "The Artist’s Way is one of the bestselling gift books of all time. Beautifully packaged with a slipcase and ribbon, this tenth anniversary gift edition is the ideal gift for loved ones engaged in creative lives.",
-    "sentiment": "Gripping",
+    "sentiment": "Visionary",
     "affiliateLink": "https://amzn.to/3L1WmGm",
     "reviews": [
       "Morning Pages: A daily ritual of writing three pages of longhand, stream-of-consciousness text to clear the mind and unlock creative flow.",
@@ -694,22 +682,21 @@
     "id": "28"
   },
   {
-    "title": "Steal Like an Artist 10th Anniversary Gift Edition with a New Afterword by the Author: 10 Things Nobody Told You About Being Creative (Austin Kleon): Kleon, Austin: 9781523516322: Amazon.com: Books",
+    "title": "Steal Like an Artist 10th Anniversary Gift Edition with a New Afterword by the Author: 10 Things Nobody Told You About Being Creative (Austin Kleon): Kleon, Austin",
     "author": "Austin Kleon",
     "price": 2.38,
-    "coverUrl": "https://m.media-amazon.com/images/I/71+WGpddNfL._SY522_.jpg",
-    "accentColor": "#D4A373",
+    "coverUrl": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?q=80&w=1000",
+    "accentColor": "#EF4444",
     "rating": {
       "average": 4.6,
       "count": 19533
     },
     "tags": [
-      "Humor & Entertainment",
-      "Pop Culture",
-      "Art"
+      "3.   !Image 127 Shop the Store on Amazon",
+      "!Image 128: Vincent Van Gogh. The Soul’s Palette: Illustrated Books for Kids, Biography and Art of the Artist Explained with Stories and Creative Activities   Vincent Van Gogh. The Soul’s Palette: Illustrated Books for Kids, Biography and Art of the Artist Explained with Stories and Creative Activities 5.0 _5.0 out of 5 stars_ 5 $12.90$12.90"
     ],
     "synopsis": "Title: Steal Like an Artist 10th Anniversary Gift Edition with a New Afterword by the Author: 10 Things Nobody Told You About Being Creative (Austin Kleon): Kleon, Austin: 9781523516322: Amazon.com: Books",
-    "sentiment": "Essential Reading",
+    "sentiment": "Life-Changing",
     "affiliateLink": "https://amzn.to/4q8MkSD",
     "reviews": [
       "\"Steal Like An Artist,\" by Austin Kleon, is for anybody who is, was or will be stuck in their own creative neurosis, unable to accept their giftings, unable to move forward, unable to risk failure.",
@@ -719,11 +706,11 @@
     "id": "29"
   },
   {
-    "title": "Shoe Dog: A Memoir by the Creator of Nike: Knight, Phil: 9781501135910: Amazon.com: Books",
+    "title": "Shoe Dog: A Memoir by the Creator of Nike: Knight, Phil",
     "author": "Phil Knight",
     "price": 1.0,
     "coverUrl": "https://m.media-amazon.com/images/I/71AqHmnXppL._SY522_.jpg",
-    "accentColor": "#10B981",
+    "accentColor": "#8B5CF6",
     "rating": {
       "average": 4.8,
       "count": 62295
@@ -734,7 +721,7 @@
       "Business & Industry"
     ],
     "synopsis": "Missing dust jacket; May have limited writing in cover pages. Pages are unmarked. ~ ThriftBooks: Read More, Spend Less Missing dust jacket; May have limited writing in cover pages. Pages are unmarked. ~ ThriftBooks: Read More, Spend Less [See less](javascript:void(0))",
-    "sentiment": "Mind-Bending",
+    "sentiment": "Essential Reading",
     "affiliateLink": "https://amzn.to/4qdDHGO",
     "reviews": [
       "What I like most is Knight's mindset. He had determination and fire in his belly. His belief in his brand was relentless despite some major setbacks. And in this book, he talks about a lot of them. Th...",
@@ -744,11 +731,11 @@
     "id": "30"
   },
   {
-    "title": "Amazon.com: Steve Jobs: 9781451648539: Isaacson, Walter: Books",
+    "title": "Amazon.com: Steve Jobs: : Isaacson, Walter: Books",
     "author": "Walter Isaacson",
     "price": 1.0,
     "coverUrl": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?q=80&w=1000",
-    "accentColor": "#10B981",
+    "accentColor": "#8B5CF6",
     "rating": {
       "average": 4.7,
       "count": 26193
@@ -757,7 +744,7 @@
       "Biographies of Business & Industrial Professionals"
     ],
     "synopsis": "Missing dust jacket; May have limited writing in cover pages. Pages are unmarked. ~ ThriftBooks: Read More, Spend Less Missing dust jacket; May have limited writing in cover pages. Pages are unmarked. ~ ThriftBooks: Read More, Spend Less [See less](javascript:void(0))",
-    "sentiment": "Deep & Profound",
+    "sentiment": "Gripping",
     "affiliateLink": "https://amzn.to/4q6HLZ0",
     "reviews": [
       "I found that Isaacson's bio of Einstein was both interesting and did a profoundly better job of explaining relativity than my physics professors ever did. This book didn't disappoint. It was both capt...",
@@ -767,11 +754,11 @@
     "id": "31"
   },
   {
-    "title": "Elon Musk: Isaacson, Walter: 9781982181284: Amazon.com: Books",
+    "title": "Elon Musk: Isaacson, Walter",
     "author": "Walter Isaacson",
     "price": 3.57,
     "coverUrl": "https://m.media-amazon.com/images/I/81Kaj5++6pL._SY522_.jpg",
-    "accentColor": "#8B5CF6",
+    "accentColor": "#EC4899",
     "rating": {
       "average": 4.7,
       "count": 22474
@@ -782,7 +769,7 @@
       "Business & Industry"
     ],
     "synopsis": "Book is in good condition. The actual cover image may not match the stock photo. Hard cover books may show signs of wear on the spine, cover or dust jacket. Paperback book may show signs of wear on spine or cover as well as having a slight bend or curve to it. Book should have no writing or highlighting inside. Pages should be free of tears or creasing. Stickers should not be present on cover or elsewhere, and any CD or DVD expected with the book is included. Book is not a former library copy. Book is in good condition. The actual cover image may not match the stock photo. Hard cover books may...",
-    "sentiment": "Visionary",
+    "sentiment": "Deep & Profound",
     "affiliateLink": "https://amzn.to/44w9dY6",
     "reviews": [
       "Musk is on the autism spectrum—which often explains his rants of frustration, his moments of brilliance, and his many times of defeat. When I read this book, he was running six businesses—he often spe...",
@@ -792,20 +779,22 @@
     "id": "32"
   },
   {
-    "title": "Greenlights: McConaughey, Matthew: 9780593139134: Amazon.com: Books",
+    "title": "Greenlights: McConaughey, Matthew",
     "author": "Matthew McConaughey",
     "price": 1.76,
-    "coverUrl": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?q=80&w=1000",
-    "accentColor": "#EF4444",
+    "coverUrl": "https://m.media-amazon.com/images/I/61qCtcd7YeL._SY522_.jpg",
+    "accentColor": "#D4A373",
     "rating": {
       "average": 4.6,
       "count": 73924
     },
     "tags": [
-      "Rich & Famous Biographies"
+      "Biographies & Memoirs",
+      "Arts & Literature",
+      "Actors & Entertainers"
     ],
     "synopsis": "Missing dust jacket; May have limited writing in cover pages. Pages are unmarked. ~ ThriftBooks: Read More, Spend Less Missing dust jacket; May have limited writing in cover pages. Pages are unmarked. ~ ThriftBooks: Read More, Spend Less [See less](javascript:void(0))",
-    "sentiment": "Essential Reading",
+    "sentiment": "Gripping",
     "affiliateLink": "https://amzn.to/44t7ZwD",
     "reviews": [
       "Born into the lower middle class in East Texas, McConaughey looks back nostalgically at a childhood few would envy. His parents divorced and remarried each other twice, he was subject to corporal puni...",
@@ -815,11 +804,11 @@
     "id": "33"
   },
   {
-    "title": "Flow: The Psychology of Optimal Experience: Csikszentmihalyi, Mihaly: 8580001046242: Amazon.com: Books",
+    "title": "Flow: The Psychology of Optimal Experience: Csikszentmihalyi, Mihaly",
     "author": "Mihaly Csikszentmihalyi",
     "price": 1.76,
     "coverUrl": "https://m.media-amazon.com/images/I/610GM3WYL7L._SY522_.jpg",
-    "accentColor": "#10B981",
+    "accentColor": "#D4A373",
     "rating": {
       "average": 4.5,
       "count": 7303
@@ -830,7 +819,7 @@
       "History"
     ],
     "synopsis": "“Csikszentmihalyi arrives at an insight that many of us can intuitively grasp, despite our insistent (and culturally supported) denial of this truth. That is, it is not what happens to us that determines our happiness, but the manner in which we make sense of that reality. . . . T he manner in which Csikszentmihalyi integrates research on consciousness, personal psychology and spirituality is i lluminating.” —Los Angeles Times Book Review",
-    "sentiment": "Essential Reading",
+    "sentiment": "Deep & Profound",
     "affiliateLink": "https://amzn.to/4se6nkP",
     "reviews": [
       "It sounds simple but it is rather complex. The book is written by an intellectual and at times its seem for intellectuals. You have to pay attention otherwise you'd be like me when I had to re-read th...",
@@ -840,22 +829,20 @@
     "id": "34"
   },
   {
-    "title": "Sapiens [Tenth Anniversary Edition]: A Brief History of Humankind: Harari, Yuval Noah: 9780063422018: Amazon.com: Books",
+    "title": "Sapiens [Tenth Anniversary Edition]: A Brief History of Humankind: Harari, Yuval Noah",
     "author": "Yuval Noah Harari",
     "price": 3.98,
-    "coverUrl": "https://m.media-amazon.com/images/I/71kVn6thiBL._SY522_.jpg",
+    "coverUrl": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?q=80&w=1000",
     "accentColor": "#8B5CF6",
     "rating": {
       "average": 4.6,
       "count": 131433
     },
     "tags": [
-      "Biographies & Memoirs",
-      "Leaders & Notable People",
-      "Military"
+      "General Anthropology"
     ],
     "synopsis": "The tenth anniversary edition of the internationally bestselling phenomenon that cemented Yuval Noah Harari as one of the most prominent historians of our time—featuring a new afterword from the author.",
-    "sentiment": "Mind-Bending",
+    "sentiment": "Visionary",
     "affiliateLink": "https://amzn.to/4s2dFrM",
     "reviews": [
       "This is not to say the points made in the book should be accepted uncritically; in fact, one of the underlying and most important messages of the book is the need for critical examinations of our beli...",
@@ -865,37 +852,35 @@
     "id": "35"
   },
   {
-    "title": "The Alchemist Deluxe Edition: A Fable About Following Your Dream",
+    "title": "Amazon.com: The Alchemist Deluxe Edition: A Fable About Following Your Dream: : Coelho, Paulo: Books",
     "author": "Paulo Coelho",
-    "price": 44.11,
-    "coverUrl": "https://m.media-amazon.com/images/I/81MLsqv7lIL._SY522_.jpg",
-    "accentColor": "#D4A373",
+    "price": 0.95,
+    "coverUrl": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?q=80&w=1000",
+    "accentColor": "#EF4444",
     "rating": {
       "average": 4.6,
       "count": 121309
     },
     "tags": [
-      "Literature & Fiction",
-      "Genre Fiction",
-      "Historical",
-      "Ancient"
+      "4.   !Image 136 Shop the Store on Amazon",
+      "!Image 137: The Book of Five Rings by Miyamoto Musashi - Complete Edition: The New Modern English Translation   The Book of Five Rings by Miyamoto Musashi - Complete Edition: The New Modern English Translation 4.6 _4.6 out of 5 stars_ 67 $13.99$13.99"
     ],
-    "synopsis": "A beautiful keepsake edition of the extraordinary and beloved international bestseller.\n\"It’s a brilliant, magical, life-changing book that continues to blow my mind with its lessons.\"—Neil Patrick Harris, actor\n“Translated into 80 languages, the allegory teaches us about dreams, destiny, and the reason we are all here.”—Oprah Daily\nCombining magic, mysticism, wisdom, and wonder into an inspiring tale of self-discovery, \nThe Alchemist\n has become a modern classic, selling millions of copies around the world and transforming the lives of countless readers across generations.\nThis story, dazzlin...",
-    "sentiment": "Visionary",
+    "synopsis": "Combining magic, mysticism, wisdom, and wonder into an inspiring tale of self-discovery, The Alchemist has become a modern classic, selling millions of copies around the world and transforming the lives of countless readers across generations.",
+    "sentiment": "Essential Reading",
     "affiliateLink": "https://amzn.to/4iYSYIT",
     "reviews": [
-      "Why I Bought ItI had heard so many people recommend The Alchemist as a life-changing book, and I finally decided to see what it was about.Pros• Beautifully written, with simple but powerful language• ...",
-      "An extraordinarily clear story which holds a mirror to our lives and offers timeless wisdom to help us become more fully ourselves.",
-      "The Alchemist was quite short, but filled with inspiration. There were many lines worth highlighting and remembering, especially when one might need some motivation.The plot deals with a young boy who..."
+      "I had heard so many people recommend The Alchemist as a life-changing book, and I finally decided to see what it was about.",
+      "I had heard so many people recommend The Alchemist as a life-changing book, and I finally decided to see what it was about.",
+      "The Alchemist is a modern classic for good reason. It’s a simple yet profound story that reminds you to listen to your heart, trust the journey, and never give up on your dreams. I finished it feeling..."
     ],
     "id": "36"
   },
   {
-    "title": "Range: Why Generalists Triumph in a Specialized World: Epstein, David: 9780735214484: Amazon.com: Books",
+    "title": "Range: Why Generalists Triumph in a Specialized World: Epstein, David",
     "author": "David Epstein",
     "price": 3.99,
     "coverUrl": "https://m.media-amazon.com/images/I/71P+sZn5ctL._SY522_.jpg",
-    "accentColor": "#EF4444",
+    "accentColor": "#3B82F6",
     "rating": {
       "average": 4.6,
       "count": 12383
@@ -906,7 +891,7 @@
       "Developmental Psychology"
     ],
     "synopsis": "Plenty of experts argue that anyone who wants to develop a skill, play an instrument, or lead their field should start early, focus intensely, and rack up as many hours of deliberate practice as possible. If you dabble or delay, you’ll never catch up to the people who got a head start. But a closer look at research on the world’s top performers, from professional athletes to Nobel laureates, shows that early specialization is the exception, not the rule.",
-    "sentiment": "Visionary",
+    "sentiment": "Gripping",
     "affiliateLink": "https://amzn.to/4j2QoSs",
     "reviews": [
       "“The question I set out to explore was how to capture and cultivate the power of breadth, diverse experience, and intra-disciplinary exploration within systems that increasingly demand hyper-specializ...",
@@ -916,18 +901,20 @@
     "id": "37"
   },
   {
-    "title": "Building a Second Brain: A Proven Method to Organize Your Digital Life and Unlock Your Creative Potential: Forte, Tiago: 9781982167387: Amazon.com: Books",
+    "title": "Building a Second Brain: A Proven Method to Organize Your Digital Life and Unlock Your Creative Potential: Forte, Tiago",
     "author": "Tiago Forte",
     "price": 3.98,
-    "coverUrl": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?q=80&w=1000",
-    "accentColor": "#EC4899",
+    "coverUrl": "https://m.media-amazon.com/images/I/71+IDmZU88L._SY522_.jpg",
+    "accentColor": "#8B5CF6",
     "rating": {
       "average": 4.5,
       "count": 6759
     },
     "tags": [
-      "4.   !Image 123 Shop the Store on Amazon",
-      "!Image 124: Brain Activity Book for Adults with a Variety of Mental Puzzles & Cognitive Games: 99 Fun and Challenging Exercises to Improve Memory and Keep Your Brain Strong – Large Print, Vol 1   Brain Activity Book for Adults with a Variety of Mental Puzzles & Cognitive Games: 99 Fun and Challenging Exercises to Improve Memory and Keep Your Brain Strong – Large Print, Vol 1 4.0 _4.0 out of 5 stars_ 14 $10.99$10.99"
+      "Business & Money",
+      "Management & Leadership",
+      "Project Management",
+      "Business"
     ],
     "synopsis": "For the first time in history, we have instantaneous access to the world’s knowledge. There has never been a better time to learn, to contribute, and to improve ourselves. Yet, rather than feeling empowered, we are often left feeling overwhelmed by this constant influx of information. The very knowledge that was supposed to set us free has instead led to the paralyzing stress of believing we’ll never know or remember enough.",
     "sentiment": "Essential Reading",
@@ -944,7 +931,7 @@
     "author": "John Berger",
     "price": 133.21,
     "coverUrl": "https://m.media-amazon.com/images/I/91Iml2MZKxL._SY522_.jpg",
-    "accentColor": "#F59E0B",
+    "accentColor": "#EC4899",
     "rating": {
       "average": 4.3,
       "count": 47
@@ -954,7 +941,7 @@
       "Individual Artists"
     ],
     "synopsis": "Â Â Â At the height of his powers, Pablo Picasso was the artist as revolutionary, breaking through the niceties of form in order to mount a direct challenge to the values of his time. At the height of his fame, he was the artist as royalty: incalculably wealthy, universally idolizedâ and wholly isolated.\nÂ Â Â In this stunning critical assessment, John Bergerâ one of this century's most insightful cultural historiansâ trains his penetrating gaze upon this most prodigious and enigmatic painter and on the Spanish landscape and very particular culture that shpaed his life and work. Writing with a...",
-    "sentiment": "Gripping",
+    "sentiment": "Mind-Bending",
     "affiliateLink": "https://amzn.to/48UnNtR",
     "reviews": [
       "Berger considers the effects of what it may have meant to have grown up as a child prodigy, what effect the turn-of-the-century Spanish milieu the young Picasso brought with him when he encountered an...",
@@ -964,18 +951,16 @@
     "id": "39"
   },
   {
-    "title": "Getting Things Done: The Art of Stress-Free Productivity: Allen, David, Fallows, James: 9780143126560: Amazon.com: Books",
+    "title": "Getting Things Done: The Art of Stress-Free Productivity: Allen, David, Fallows, James",
     "author": "David Allen",
     "price": 1.63,
-    "coverUrl": "https://m.media-amazon.com/images/I/61Loe8brBXL._SY522_.jpg",
-    "accentColor": "#8B5CF6",
+    "coverUrl": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?q=80&w=1000",
+    "accentColor": "#10B981",
     "rating": {
       "average": 4.5,
       "count": 10424
     },
     "tags": [
-      "Business & Money",
-      "Skills",
       "Time Management"
     ],
     "synopsis": "May have limited writing in cover pages. Pages are unmarked. ~ ThriftBooks: Read More, Spend Less May have limited writing in cover pages. Pages are unmarked. ~ ThriftBooks: Read More, Spend Less [See less](javascript:void(0))",
@@ -989,11 +974,11 @@
     "id": "40"
   },
   {
-    "title": "The Laws of Human Nature: Greene, Robert: 9780525428145: Amazon.com: Books",
+    "title": "The Laws of Human Nature: Greene, Robert",
     "author": "Robert Greene",
     "price": 4.99,
     "coverUrl": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?q=80&w=1000",
-    "accentColor": "#EF4444",
+    "accentColor": "#3B82F6",
     "rating": {
       "average": 4.8,
       "count": 17547
@@ -1012,11 +997,11 @@
     "id": "41"
   },
   {
-    "title": "The 48 Laws of Power: Robert Greene, Joost Elffers: 9780670881468: Amazon.com: Books",
+    "title": "The 48 Laws of Power: Robert Greene, Joost Elffers",
     "author": "Robert Greene",
     "price": 4.99,
     "coverUrl": "https://m.media-amazon.com/images/I/61UZS3QA1UL._SY522_.jpg",
-    "accentColor": "#8B5CF6",
+    "accentColor": "#EC4899",
     "rating": {
       "average": 4.7,
       "count": 86763
@@ -1038,21 +1023,24 @@
     "id": "42"
   },
   {
-    "title": "Meditations (Modern Library): Aurelius, Marcus, Hays, Gregory, Holiday, Ryan: 9780679642602: Amazon.com: Books",
+    "title": "Meditations (Modern Library): Aurelius, Marcus, Hays, Gregory, Holiday, Ryan",
     "author": "Marcus Aurelius",
     "price": 0.88,
-    "coverUrl": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?q=80&w=1000",
-    "accentColor": "#8B5CF6",
+    "coverUrl": "https://m.media-amazon.com/images/I/91Rzt6n8HaL._SY522_.jpg",
+    "accentColor": "#10B981",
     "rating": {
       "average": 4.7,
       "count": 9234
     },
     "tags": [
-      "1.   !Image 103 Shop the Store on Amazon",
-      "!Image 104: Meditations Marcus Aurelius: New Complete Translation of Stoic Wisdom Adapted for Modern Readers Illustrated   Meditations Marcus Aurelius: New Complete Translation of Stoic Wisdom Adapted for Modern Readers Illustrated 4.6 _4.6 out of 5 stars_ 214 $16.99$16.99"
+      "Politics & Social Sciences",
+      "Philosophy",
+      "History & Schools of Thought",
+      "Western",
+      "Ancient Greek & Roman"
     ],
     "synopsis": "“Meditations offers a glimpse into [Marcus Aurelius’s] mind, his habits, and his approach to life. . . . I think any reader would find something useful to take away from it.”—James Clear, #1 New York Times bestselling author of Atomic Habits",
-    "sentiment": "Life-Changing",
+    "sentiment": "Gripping",
     "affiliateLink": "https://amzn.to/4oVl49g",
     "reviews": [
       "This translation comes with a large opening section detailing Marcus Aurelius' life and the geopolitical and social factors surrounding the work, as well as the history we know of how the work survive...",
@@ -1062,11 +1050,11 @@
     "id": "43"
   },
   {
-    "title": "The Obstacle is the Way Expanded 10th Anniversary Edition: The Timeless Art of Turning Trials into Triumph: Holiday, Ryan: 9780593719916: Amazon.com: Books",
+    "title": "The Obstacle is the Way Expanded 10th Anniversary Edition: The Timeless Art of Turning Trials into Triumph: Holiday, Ryan",
     "author": "Ryan Holiday",
     "price": 3.99,
     "coverUrl": "https://m.media-amazon.com/images/I/71mXLoL1KRL._SY522_.jpg",
-    "accentColor": "#EF4444",
+    "accentColor": "#10B981",
     "rating": {
       "average": 4.7,
       "count": 5566
@@ -1077,7 +1065,7 @@
       "Motivation & Self-Improvement"
     ],
     "synopsis": "An updated and expanded edition of the book that launched a global phenomenon, The Obstacle Is the Way presents an infinitely elastic formula for turning our toughest trials into our greatest triumphs.",
-    "sentiment": "Gripping",
+    "sentiment": "Mind-Bending",
     "affiliateLink": "https://amzn.to/3L0EWKg",
     "reviews": [
       "Storytelling has been around since the beginning of time, but actual mass communication has been around for a very short time (relatively). It looks as if the \"paper book\" business will become a speci...",
@@ -1087,22 +1075,21 @@
     "id": "44"
   },
   {
-    "title": "Ego Is the Enemy: Holiday, Ryan: 9781591847816: Amazon.com: Books",
+    "title": "Ego Is the Enemy: Holiday, Ryan",
     "author": "Ryan Holiday",
     "price": 3.99,
-    "coverUrl": "https://m.media-amazon.com/images/I/71z70m5r7OL._SY522_.jpg",
+    "coverUrl": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?q=80&w=1000",
     "accentColor": "#F59E0B",
     "rating": {
       "average": 4.6,
       "count": 20915
     },
     "tags": [
-      "Business & Money",
-      "Business Culture",
-      "Motivation & Self-Improvement"
+      "3.   !Image 129 Shop the Store on Amazon",
+      "!Image 130: Stoicism for New Life: The Path to a Stoic Mindset for Emotional Resilience and Joy: Including 52 Practices and Rules for Daily Life - Philosophy of Marcus ... and Others   Stoicism for New Life: The Path to a Stoic Mindset for Emotional Resilience and Joy: Including 52 Practices and Rules for Daily Life - Philosophy of Marcus ... and Others 4.6 _4.6 out of 5 stars_ 191 $4.99$4.99"
     ],
     "synopsis": "“While the history books are filled with tales of obsessive visionary geniuses who remade the world in their image with sheer, almost irrational force, I’ve found that history is also made by individuals who fought their egos at every turn, who eschewed the spotlight, and who put their higher goals above their desire for recognition.” —from the prologue",
-    "sentiment": "Visionary",
+    "sentiment": "Life-Changing",
     "affiliateLink": "https://amzn.to/4q9hppx",
     "reviews": [
       "Quite frankly, I have nothing but praise for this book, which I believe is a “must-read” for managers within any profession. It is neither oversimplified, nor overstated. In fact, the author drives hi...",
@@ -1112,11 +1099,11 @@
     "id": "45"
   },
   {
-    "title": "Quiet: The Power of Introverts in a World That Can't Stop Talking: Cain, Susan: 8937485908175: Amazon.com: Books",
+    "title": "Quiet: The Power of Introverts in a World That Can't Stop Talking: Cain, Susan",
     "author": "Susan Cain",
     "price": 1.7,
     "coverUrl": "https://m.media-amazon.com/images/I/71BXRqKq4nL._SY522_.jpg",
-    "accentColor": "#EC4899",
+    "accentColor": "#10B981",
     "rating": {
       "average": 4.5,
       "count": 35114
@@ -1127,7 +1114,7 @@
       "Interpersonal Relations"
     ],
     "synopsis": "Pages are clean and are not marred by notes or folds of any kind. ~ ThriftBooks: Read More, Spend Less Pages are clean and are not marred by notes or folds of any kind. ~ ThriftBooks: Read More, Spend Less [See less](javascript:void(0))",
-    "sentiment": "Gripping",
+    "sentiment": "Essential Reading",
     "affiliateLink": "https://amzn.to/3MDe5V4",
     "reviews": [
       "I blamed myself - there must be something `wrong with me' because I can't handle the job. I wanted to leave, but thought, if I can't handle this job, how am I going to handle a new job? It'll probably...",
@@ -1137,11 +1124,11 @@
     "id": "46"
   },
   {
-    "title": "Man's Search for Meaning: Gift Edition: Frankl, Viktor E., Winslade, William J., Kushner, Harold S.: 9780807060100: Amazon.com: Books",
+    "title": "Man's Search for Meaning: Gift Edition: Frankl, Viktor E., Winslade, William J., Kushner, Harold S.",
     "author": "Viktor E. Frankl",
     "price": 3.99,
     "coverUrl": "https://m.media-amazon.com/images/I/81uK7UU+0OL._SY522_.jpg",
-    "accentColor": "#EF4444",
+    "accentColor": "#EC4899",
     "rating": {
       "average": 4.8,
       "count": 3868
@@ -1163,7 +1150,7 @@
     "id": "47"
   },
   {
-    "title": "Principles: Life and Work: Dalio, Ray: 9781501124020: Amazon.com: Books",
+    "title": "Principles: Life and Work: Dalio, Ray",
     "author": "Ray Dalio",
     "price": 3.99,
     "coverUrl": "https://m.media-amazon.com/images/I/61LKD6scbfL._SY522_.jpg",
@@ -1178,7 +1165,7 @@
       "Introduction"
     ],
     "synopsis": "Ray Dalio, one of the world’s most successful investors and entrepreneurs, shares the unconventional principles that he’s developed, refined, and used over the past forty years to create unique results in both life and business—and which any person or organization can adopt to help achieve their goals.",
-    "sentiment": "Deep & Profound",
+    "sentiment": "Essential Reading",
     "affiliateLink": "https://amzn.to/4pVYMG1",
     "reviews": [
       "From the moment I opened this book, I was instantly captivated by Dalio's unique storytelling style. He effortlessly combines personal anecdotes, practical examples, and profound wisdom to paint a com...",
@@ -1188,11 +1175,11 @@
     "id": "48"
   },
   {
-    "title": "Amazon.com: Four Thousand Weeks: Time Management for Mortals: 9780374159122: Burkeman, Oliver: Books",
+    "title": "Amazon.com: Four Thousand Weeks: Time Management for Mortals: : Burkeman, Oliver: Books",
     "author": "Oliver Burkeman",
     "price": 3.05,
     "coverUrl": "https://m.media-amazon.com/images/I/71udc7ZQtVL._SY522_.jpg",
-    "accentColor": "#3B82F6",
+    "accentColor": "#F59E0B",
     "rating": {
       "average": 4.5,
       "count": 12946
@@ -1202,7 +1189,7 @@
       "Happiness"
     ],
     "synopsis": "Nobody needs telling there isn’t enough time. We’re obsessed with our lengthening to-do lists, our overfilled inboxes, work-life balance, and the ceaseless battle against distraction; and we’re deluged with advice on becoming more productive and efficient, and “life hacks” to optimize our days. But such techniques often end up making things worse. The sense of anxious hurry grows more intense, and still the most meaningful parts of life seem to lie just beyond the horizon. Still, we rarely make the connection between our daily struggles with time and the ultimate time management problem: the c...",
-    "sentiment": "Mind-Bending",
+    "sentiment": "Life-Changing",
     "affiliateLink": "https://amzn.to/44umf8t",
     "reviews": [
       "So... the low-star review people just don't get it, and that's probably because they don't want to. Some people are looking for a time-management instruction manual to help them magically solve that m...",
@@ -1212,11 +1199,11 @@
     "id": "49"
   },
   {
-    "title": "The Mountain Is You: Brianna Wiest: 9781949759945: Amazon.com: Books",
+    "title": "The Mountain Is You: Brianna Wiest",
     "author": "Brianna Wiest",
     "price": 7.05,
-    "coverUrl": "https://m.media-amazon.com/images/I/71AHFDEpkdL._SY522_.jpg",
-    "accentColor": "#EC4899",
+    "coverUrl": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?q=80&w=1000",
+    "accentColor": "#D4A373",
     "rating": {
       "average": 4.7,
       "count": 24144
@@ -1226,7 +1213,7 @@
       "!Image 118: I Love You S'more - Children's Board Book for Babies & Toddlers   I Love You S'more - Children's Board Book for Babies & Toddlers 5.0 _5.0 out of 5 stars_ 20 $7.18$7.18 List:$8.99$8.99"
     ],
     "synopsis": "This beautiful, exclusive hardcover book is limited edition. Each book includes a gold ribbon bookmark. This book is about self-sabotage. Why we do it, when we do it, and how to stop doing it?for good. Coexisting but conflicting needs create self-sabotaging behaviors. This is why we resist efforts to change, often until they feel completely futile. But by extracting crucial insight from our most damaging habits, building emotional intelligence by better understanding our brains and bodies, releasing past experiences at a cellular level, and learning to act as our highest potential future selve...",
-    "sentiment": "Deep & Profound",
+    "sentiment": "Visionary",
     "affiliateLink": "https://amzn.to/4rXRgeQ",
     "reviews": [
       "Deep Self-Reflection: The author takes readers on a journey of self-discovery, encouraging us to confront our self-sabotaging behaviors and beliefs. The book offers powerful questions and exercises th...",
@@ -1236,20 +1223,22 @@
     "id": "50"
   },
   {
-    "title": "Designing Your Life: How to Build a Well-Lived, Joyful Life: Burnett, Bill, Evans, Dave: 9781101875322: Amazon.com: Books",
-    "author": "Bill Burnett & Dave Evans",
+    "title": "Designing Your Life: How to Build a Well-Lived, Joyful Life: Burnett, Bill, Evans, Dave",
+    "author": "Bill Burnett",
     "price": 1.35,
-    "coverUrl": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?q=80&w=1000",
-    "accentColor": "#10B981",
+    "coverUrl": "https://m.media-amazon.com/images/I/51L5hQ2mFdL._SY522_.jpg",
+    "accentColor": "#D4A373",
     "rating": {
       "average": 4.5,
       "count": 5873
     },
     "tags": [
-      "Job Hunting"
+      "Business & Money",
+      "Job Hunting & Careers",
+      "Guides"
     ],
     "synopsis": "New, unread publisher overstock copy. Ships next business day for fast delivery. 100% Satisfaction Guarantee. Quantity discounts available on many of our titles in Amazon Business. New, unread publisher overstock copy. Ships next business day for fast delivery. 100% Satisfaction Guarantee. Quantity discounts available on many of our titles in Amazon Business. [See less](javascript:void(0))",
-    "sentiment": "Deep & Profound",
+    "sentiment": "Mind-Bending",
     "affiliateLink": "https://amzn.to/3KLd252",
     "reviews": [
       "𝗗𝗲𝘀𝗶𝗴𝗻 𝗧𝗵𝗶𝗻𝗸𝗶𝗻𝗴 𝗔𝗽𝗽𝗹𝗶𝗲𝗱 𝘁𝗼 𝗟𝗶𝗳𝗲. The same iterative, human-centered process used to design products can be used to design a meaningful life. This includes prototyping, reframing problems, and embracin...",
@@ -1259,22 +1248,21 @@
     "id": "51"
   },
   {
-    "title": "Your Best Year Ever: A 5-Step Plan for Achieving Your Most Important Goals―New Year, New You in 2026: Michael Hyatt: 9781540902696: Amazon.com: Books",
+    "title": "Your Best Year Ever: A 5-Step Plan for Achieving Your Most Important Goals―New Year, New You in 2026: Michael Hyatt",
     "author": "Michael Hyatt",
     "price": 3.99,
-    "coverUrl": "https://m.media-amazon.com/images/I/7194tf2gvTL._SY522_.jpg",
-    "accentColor": "#8B5CF6",
+    "coverUrl": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?q=80&w=1000",
+    "accentColor": "#D4A373",
     "rating": {
       "average": 4.6,
       "count": 2398
     },
     "tags": [
-      "Business & Money",
-      "Management & Leadership",
-      "Leadership & Motivation"
+      "3.   !Image 136 Shop the Store on Amazon",
+      "!Image 137: Police Officer Exam Study Guide 2025-2026: Full Practice Test, Chapter Review Questions, Detailed Answer Explanations, and Prep Book: 6th Edition   Police Officer Exam Study Guide 2025-2026: Full Practice Test, Chapter Review Questions, Detailed Answer Explanations, and Prep Book: 6th Edition 4.3 _4.3 out of 5 stars_ 22 $24.99$24.99 List:$30.99$30.99"
     ],
     "synopsis": "We all want to live a life that matters. We all want to reach our full potential. But too often we find ourselves overwhelmed by the day-to-day. Our biggest goals get pushed to the back burner--and then, more often than not, they get abandoned and forgotten.",
-    "sentiment": "Gripping",
+    "sentiment": "Life-Changing",
     "affiliateLink": "https://amzn.to/4j6Hwen",
     "reviews": [
       "If that isn’t enough of a recommendation for you to order this book right now here are a few of the benefits I have gotten from this book already.",
@@ -1284,26 +1272,27 @@
     "id": "52"
   },
   {
-    "title": "The Boy, the Mole, the Fox and the Horse: Inspiring Conversations on Hope, Love and Personal Growth: Mackesy, Charlie: 9780062976581: Amazon.com: Books",
+    "title": "The Boy, the Mole, the Fox and the Horse: Inspiring Conversations on Hope, Love and Personal Growth",
     "author": "Charlie Mackesy",
-    "price": 5.9,
-    "coverUrl": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?q=80&w=1000",
-    "accentColor": "#3B82F6",
+    "price": 133.21,
+    "coverUrl": "https://m.media-amazon.com/images/I/71eJk7GtUOL._SY522_.jpg",
+    "accentColor": "#8B5CF6",
     "rating": {
       "average": 4.8,
       "count": 127039
     },
     "tags": [
-      "1.   !Image 121 Shop the Store on Amazon",
-      "!Image 122: You are a Loved Boy: A Collection of Inspiring Stories about Family, Friendship, Self-Confidence and Love   You are a Loved Boy: A Collection of Inspiring Stories about Family, Friendship, Self-Confidence and Love 4.5 _4.5 out of 5 stars_ 188 $10.45$10.45 List:$13.99$13.99"
+      "Comics & Graphic Novels",
+      "Graphic Novels",
+      "Contemporary Women"
     ],
-    "synopsis": "Minimal or no signs of wear, writing, or notes. ~ BooksRun: cheaper books, every time! Minimal or no signs of wear, writing, or notes. ~ BooksRun: cheaper books, every time! [See less](javascript:void(0))",
-    "sentiment": "Essential Reading",
+    "synopsis": "#1 \nNEW YORK TIMES\n BESTSELLER\n · \nWALL STREET JOURNAL \nBESTSELLER \n · \nUSA TODAY\n BESTSELLER\n“\nThe Boy, the Mole, the Fox and the Horse\n is not only a thought-provoking, discussion-worthy story, the book itself is an object of art.”- Elizabeth Egan, \nThe New York Times\nFrom British illustrator, artist, and author Charlie Mackesy comes a journey for all ages that explores life’s universal lessons, featuring 100 color and black-and-white drawings.\n“What do you want to be when you grow up?” asked the mole.\n“Kind,” said the boy.\nCharlie Mackesy offers inspiration and hope in uncertain times in th...",
+    "sentiment": "Visionary",
     "affiliateLink": "https://amzn.to/4j0npyu",
     "reviews": [
-      "In gently presented prose consisting of kind one-liners, the philosophy of living a good life, loving oneself, being kind to others, living forgiveness of others and self, and being both satisfied and...",
-      "The wisdom is ancient, God-like and deeply personal. It is as if a beloved and long-dead grandfather is whispering universal truths through the mole, the fox and the horse, as each learns, imparts kno...",
-      "This deceptively simple little volume is filled with deceptively simple line drawings and script, all produced by an accidental philosopher-artist living in a stone hut in the English countryside like..."
+      "I LOVE this book and have given copies away as gifts to people who mean a lot to me!  I always hope that it speaks to their soul as it does to mine!!  Wish such a book had been available when I was gr...",
+      "I love the story of this book. I got it for several of my grandkids' families to read together. It has a beautiful message to read together & discuss. I don't like that it's written in cursive through...",
+      "The media could not be loaded.\n                \n\n\n\nGreat artwork! Has a storyline intended for helping ponder and navigate life. Great book to have on a coffee table. Easy to start or stop at any poin..."
     ],
     "id": "53"
   }
