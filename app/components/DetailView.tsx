@@ -122,13 +122,18 @@ export const DetailView = ({ book, onClose }: DetailViewProps) => {
                 <div className="absolute bottom-0 left-0 w-full p-6 bg-gradient-to-t from-stone-900 via-stone-900/90 to-transparent">
                     <div className="flex items-center justify-between gap-6">
                         <div className="flex flex-col">
-                            <span className="text-sm text-white/50 uppercase">Total Price</span>
+                            <span className="text-sm text-white/50 uppercase">Best Price</span>
                             <span className="text-3xl font-serif text-white">${book.price.toFixed(2)}</span>
                         </div>
-                        <button className="flex-1 h-14 bg-white text-black font-medium text-lg rounded-full flex items-center justify-center gap-2 hover:scale-[1.02] active:scale-[0.98] transition-transform">
+                        <a
+                            href={book.affiliateLink}
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="flex-1 h-14 bg-white text-black font-medium text-lg rounded-full flex items-center justify-center gap-2 hover:scale-[1.02] active:scale-[0.98] transition-transform"
+                        >
                             <ShoppingBag size={20} />
-                            Add to Library
-                        </button>
+                            Buy on Amazon
+                        </a>
                     </div>
                 </div>
             </motion.div>
