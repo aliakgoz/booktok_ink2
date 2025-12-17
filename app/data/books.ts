@@ -5,6 +5,7 @@ export type Book = {
     title: string;
     author: string;
     price: number;
+    priceLabel?: string;
     coverUrl: string;
     accentColor: string;
     rating: {
@@ -25,4 +26,5 @@ export const books: Book[] = scrapedBooks.map((book) => ({
     tags: book.tags || ["Non-Fiction"],
     affiliateLink: book.affiliateLink || "#",
     reviews: book.reviews || ["No reviews available yet."],
+    priceLabel: book.priceLabel || "Price",
 }));

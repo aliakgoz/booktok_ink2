@@ -123,7 +123,12 @@ export const DetailView = ({ book, onClose }: DetailViewProps) => {
                     <div className="flex items-center justify-between gap-6">
                         <div className="flex flex-col">
                             <span className="text-sm text-white/50 uppercase">Best Price</span>
-                            <span className="text-3xl font-serif text-white">${book.price.toFixed(2)}</span>
+                            <div className="flex items-baseline gap-3">
+                                <span className="text-3xl font-serif text-white">${book.price.toFixed(2)}</span>
+                                <span className="text-xs uppercase tracking-wide text-white/60">
+                                    {book.priceLabel || "Price"}
+                                </span>
+                            </div>
                         </div>
                         <a
                             href={book.affiliateLink}

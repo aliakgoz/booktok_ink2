@@ -14,7 +14,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Lumina V2",
+  title: "booktok.ink",
   description: "A digital glass book discovery experience.",
 };
 

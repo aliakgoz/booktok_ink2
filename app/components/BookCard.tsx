@@ -43,8 +43,11 @@ export const BookCard = ({ book, onClick }: BookCardProps) => {
                     {book.author}
                 </p>
                 <div className="flex items-center justify-between">
-                    <span className="text-lg font-medium font-mono text-white/90">
+                    <span className="text-lg font-medium font-mono text-white/90 flex items-center gap-2">
                         ${book.price.toFixed(2)}
+                        <span className="text-xs uppercase tracking-wide text-white/70">
+                            {book.priceLabel || "Price"}
+                        </span>
                     </span>
                 </div>
             </div>
