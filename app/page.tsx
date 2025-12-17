@@ -25,7 +25,7 @@ export default function Home() {
 
       {/* Header */}
       <header className="fixed top-0 left-0 w-full z-30 p-8 flex justify-between items-center pointer-events-none">
-        <h1 className="text-3xl font-serif text-white font-bold pointer-events-auto">Lumina.</h1>
+        <h1 className="text-3xl font-serif text-white font-bold pointer-events-auto">booktok.ink</h1>
         <div className="w-10 h-10 rounded-full bg-white/10 backdrop-blur pointer-events-auto border border-white/10" />
       </header>
 
